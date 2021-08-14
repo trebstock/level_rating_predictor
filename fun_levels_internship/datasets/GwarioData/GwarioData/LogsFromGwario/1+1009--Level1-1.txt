@@ -1,0 +1,6 @@
+Player got chocolate
+Player got spoon
+Player got onion
+Player got cardboardbox
+Player got orangejuice
+Player had score 5000

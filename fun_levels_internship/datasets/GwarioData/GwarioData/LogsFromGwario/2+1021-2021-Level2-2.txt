@@ -1,0 +1,54 @@
+Player RightMove: StTime = 153.0094 EdTime = 153.5926
+Player BlockPowerDestroy:  time = 153.6258
+Player Jump: StTime = 153.5258 EdTime = 153.8089
+Player RightMove: StTime = 153.7922 EdTime = 154.2589
+Player RightMove: StTime = 154.409 EdTime = 154.5087
+Player LittleState: StTime = -17 EdTime = 154.9756
+Player RightMove: StTime = 154.6751 EdTime = 155.2427
+Player2 RightMove: StTime = 153.3427 EdTime = 155.6754
+Player RightMove: StTime = 155.5084 EdTime = 155.775
+Player Jump: StTime = 153.5258 EdTime = 155.9918
+Player RightMove: StTime = 155.8423 EdTime = 156.1588
+Player Jump: StTime = 153.5258 EdTime = 156.4423
+Player RightMove: StTime = 156.3257 EdTime = 156.5421
+Player2 RunState: StTime = 156.5756 EdTime = 157.0919
+Player GoombaSquish:  time = 157.2093
+Player LeftMove: StTime = 157.2749 EdTime = 157.3089
+Player Jump: StTime = 153.5258 EdTime = 157.5924
+Player RightMove: StTime = 157.6586 EdTime = 158.2916
+Player2 Jump: StTime = 157.8424 EdTime = 158.4924
+Player LeftMove: StTime = 158.3252 EdTime = 159.3425
+Player2 Jump: StTime = 157.8424 EdTime = 159.7256
+Player2 Jump: StTime = 157.8424 EdTime = 160.4923
+Player RightMove: StTime = 160.3918 EdTime = 160.5583
+Player2 RightMove: StTime = 161.2091 EdTime = 161.3249
+Player2 Jump: StTime = 157.8424 EdTime = 161.4585
+Player RightMove: StTime = 161.0424 EdTime = 161.5915
+Player KoopaRedSquish:  time = 161.9088
+Player LeftMove: StTime = 161.7917 EdTime = 162.1254
+Player Jump: StTime = 153.5258 EdTime = 162.292
+Player LeftMove: StTime = 162.3922 EdTime = 162.6416
+Player RightMove: StTime = 162.6416 EdTime = 163.3422
+Player2 Jump: StTime = 157.8424 EdTime = 163.4421
+Player UnleashShell:  time = 163.6255
+Player2 RightMove: StTime = 162.9587 EdTime = 163.7085
+Player2 Die = 163.7413 by ShellRed
+Player2 Totaltime: StTime = 152.2894 EdTime = 163.7413
+Player2 Die = 163.758 by ShellRed
+Player2 Totaltime: StTime = 152.2894 EdTime = 163.758
+Player2 Die = 163.7756 by ShellRed
+Player2 Totaltime: StTime = 152.2894 EdTime = 163.7756
+Player LeftMove: StTime = 163.5916 EdTime = 163.7915
+Player2 Die = 163.7915 by ShellRed
+Player2 Totaltime: StTime = 152.2894 EdTime = 163.7915
+Player Jump: StTime = 153.5258 EdTime = 164.0089
+Player Die = 164.2246 by ShellRed
+Player Totaltime: StTime = 152.2894 EdTime = 164.2246
+Player Die = 164.2423 by ShellRed
+Player Totaltime: StTime = 152.2894 EdTime = 164.2423
+Player Die = 164.2582 by ShellRed
+Player Totaltime: StTime = 152.2894 EdTime = 164.2582
+Player Die = 164.2756 by ShellRed
+Player Totaltime: StTime = 152.2894 EdTime = 164.2756
+Player had score 0
+Player2 had score 0

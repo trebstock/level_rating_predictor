@@ -1,0 +1,48 @@
+Player BlockPowerDestroy:  time = 13.09571
+Player Jump: StTime = 12.99557 EdTime = 13.2791
+Player BlockPowerDestroy:  time = 13.54486
+Player Jump: StTime = 12.99557 EdTime = 13.72854
+Player RightMove: StTime = 12.47909 EdTime = 13.89578
+Player LittleState: StTime = -17 EdTime = 14.16166
+Player LeftMove: StTime = 13.99564 EdTime = 14.39548
+Player RightMove: StTime = 14.69542 EdTime = 15.27881
+Player LeftMove: StTime = 15.44506 EdTime = 15.61208
+Player Jump: StTime = 12.99557 EdTime = 16.36214
+Player GoombaSquish:  time = 16.79558
+Player RunState: StTime = 16.77876 EdTime = 16.8455
+Player RunState: StTime = 16.91218 EdTime = 16.96208
+Player Jump: StTime = 12.99557 EdTime = 17.19547
+Player RightMove: StTime = 15.6622 EdTime = 17.24544
+Player Jump: StTime = 12.99557 EdTime = 18.34535
+Player RunState: StTime = 18.64524 EdTime = 18.74475
+Player RightMove: StTime = 17.77866 EdTime = 18.84527
+Player RunState: StTime = 18.82818 EdTime = 18.91198
+Player RightMove: StTime = 18.89527 EdTime = 18.92865
+Player RunState: StTime = 18.97866 EdTime = 19.04535
+Player RunState: StTime = 19.12864 EdTime = 19.1946
+Player Jump: StTime = 12.99557 EdTime = 20.94465
+Player RightMove: StTime = 20.04526 EdTime = 21.24516
+Player RunState: StTime = 21.32848 EdTime = 21.44513
+Player RunState: StTime = 21.7118 EdTime = 21.81099
+Player RunState: StTime = 21.96179 EdTime = 22.06178
+Player RightMove: StTime = 22.37831 EdTime = 22.928
+Player got powerdrill
+Player Jump: StTime = 12.99557 EdTime = 23.22743
+Player got cheese
+Player RightMove: StTime = 23.42732 EdTime = 23.81159
+Player Jump: StTime = 12.99557 EdTime = 24.19419
+Player Jump: StTime = 12.99557 EdTime = 25.56214
+Player RightMove: StTime = 24.09431 EdTime = 26.14454
+Player Jump: StTime = 12.99557 EdTime = 26.2447
+Player RightMove: StTime = 26.57793 EdTime = 26.67816
+Player RunState: StTime = 28.06036 EdTime = 28.19402
+Player RunState: StTime = 28.64412 EdTime = 28.72772
+Player Die = 30.32784 by 
+Player Totaltime: StTime = 11.37574 EdTime = 30.32784
+Player Die = 30.34449 by 
+Player Totaltime: StTime = 11.37574 EdTime = 30.34449
+Player Die = 30.36129 by 
+Player Totaltime: StTime = 11.37574 EdTime = 30.36129
+Player Die = 30.37768 by 
+Player Totaltime: StTime = 11.37574 EdTime = 30.37768
+Player had score 2000

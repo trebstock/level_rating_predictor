@@ -1,0 +1,5 @@
+Player got powerdrill
+Player got cheese
+Player had score 2000
+Player2 had score 0
+Lost!

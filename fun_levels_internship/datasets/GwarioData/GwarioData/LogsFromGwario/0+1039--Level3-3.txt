@@ -1,0 +1,52 @@
+Player LeftMove: StTime = 197.3331 EdTime = 197.6165
+Player BlockPowerDestroy:  time = 197.6995
+Player Jump: StTime = 197.5998 EdTime = 197.8831
+Player RightMove: StTime = 198.0998 EdTime = 198.983
+Player LittleState: StTime = -17 EdTime = 199.083
+Player LeftMove: StTime = 199.3497 EdTime = 200.183
+Player Jump: StTime = 197.5998 EdTime = 200.416
+Player RightMove: StTime = 200.5497 EdTime = 200.7162
+Player BlockPowerDestroy:  time = 200.9995
+Player Jump: StTime = 197.5998 EdTime = 201.1496
+Player RightMove: StTime = 201.4822 EdTime = 201.6995
+Player LeftMove: StTime = 201.9822 EdTime = 202.2162
+Player LeftMove: StTime = 202.4326 EdTime = 202.7161
+Player Jump: StTime = 197.5998 EdTime = 202.7329
+Player Jump: StTime = 197.5998 EdTime = 203.4995
+Player RightMove: StTime = 202.8661 EdTime = 204.0327
+Player RightMove: StTime = 204.1485 EdTime = 204.3486
+Player Jump: StTime = 197.5998 EdTime = 204.5651
+Player RightMove: StTime = 204.8486 EdTime = 205.3321
+Player RightMove: StTime = 205.3817 EdTime = 205.4984
+Player Jump: StTime = 197.5998 EdTime = 205.6986
+Player RightMove: StTime = 205.749 EdTime = 206.1491
+Player got shrimp
+Player Jump: StTime = 197.5998 EdTime = 206.8324
+Player RightMove: StTime = 206.6324 EdTime = 207.0656
+Player got woodenspoon
+Player RightMove: StTime = 207.0822 EdTime = 207.0994
+Player Jump: StTime = 197.5998 EdTime = 207.5327
+Player got jeans
+Player RightMove: StTime = 207.7984 EdTime = 208.5992
+Player got spinach
+Player Jump: StTime = 197.5998 EdTime = 208.9148
+Player Jump: StTime = 197.5998 EdTime = 209.3651
+Player RightMove: StTime = 209.0149 EdTime = 209.5153
+Player RightMove: StTime = 209.7822 EdTime = 210.4484
+Player KoopaRedSquish:  time = 210.7483
+Player KoopaRedSquish:  time = 211.0822
+Player RightMove: StTime = 210.8647 EdTime = 211.2654
+Player UnleashShell:  time = 211.5317
+Player Jump: StTime = 197.5998 EdTime = 211.9323
+Player RightMove: StTime = 212.432 EdTime = 212.5987
+Player KoopaRedSquish:  time = 212.7822
+Player UnleashShell:  time = 213.1154
+Player Jump: StTime = 197.5998 EdTime = 213.5152
+Player RightMove: StTime = 213.2152 EdTime = 215.4318
+Player RightMove: StTime = 215.4485 EdTime = 215.5151
+Player Jump: StTime = 197.5998 EdTime = 215.8651
+Player RightMove: StTime = 215.8316 EdTime = 216.0978
+Player Die = 216.3647 by gap
+Player Totaltime: StTime = 195.6633 EdTime = 216.3647
+Player had score 4000
+Lost!

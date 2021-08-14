@@ -1,0 +1,44 @@
+Player LeftMove: StTime = 119.3317 EdTime = 119.5991
+Player RightMove: StTime = 119.7323 EdTime = 120.5157
+Player RightMove: StTime = 120.6656 EdTime = 120.7146
+Player Jump: StTime = 120.3314 EdTime = 121.0323
+Player BlockPowerDestroy:  time = 121.4149
+Player RightMove: StTime = 120.9814 EdTime = 121.4479
+Player Jump: StTime = 120.3314 EdTime = 121.599
+Player LittleState: StTime = -17 EdTime = 122.7655
+Player RightMove: StTime = 122.2822 EdTime = 122.9981
+Player BlockPowerDestroy:  time = 123.8488
+Player Jump: StTime = 120.3314 EdTime = 123.9987
+Player LeftMove: StTime = 123.0319 EdTime = 124.0988
+Player RightMove: StTime = 124.0988 EdTime = 124.8143
+Player Jump: StTime = 120.3314 EdTime = 125.4655
+Player LeftMove: StTime = 125.0488 EdTime = 125.5488
+Player RightMove: StTime = 125.6154 EdTime = 126.0652
+Player Jump: StTime = 120.3314 EdTime = 126.3476
+Player Jump: StTime = 120.3314 EdTime = 127.4154
+Player RightMove: StTime = 127.3654 EdTime = 127.7816
+Player RightMove: StTime = 128.3644 EdTime = 128.5141
+Player Jump: StTime = 120.3314 EdTime = 128.5141
+Player Duck: StTime = 128.8643 EdTime = 129.0475
+Player Jump: StTime = 120.3314 EdTime = 130.1482
+Player Jump: StTime = 120.3314 EdTime = 132.1146
+Player Jump: StTime = 120.3314 EdTime = 132.5146
+Player Jump: StTime = 120.3314 EdTime = 133.8151
+Player Jump: StTime = 120.3314 EdTime = 135.0817
+Player Jump: StTime = 120.3314 EdTime = 137.8478
+Player Jump: StTime = 120.3314 EdTime = 138.414
+Player Jump: StTime = 120.3314 EdTime = 139.3315
+Player Jump: StTime = 120.3314 EdTime = 139.6149
+Player RightMove: StTime = 131.5981 EdTime = 140.6977
+Player Jump: StTime = 120.3314 EdTime = 141.3649
+Player RightMove: StTime = 141.6477 EdTime = 142.0813
+Player KoopaRedSquish:  time = 144.2313
+Player Jump: StTime = 120.3314 EdTime = 144.6146
+Player FireState: StTime = 125.3488 EdTime = 144.8808
+Player RightMove: StTime = 142.348 EdTime = 145.3977
+Player LeftMove: StTime = 145.5969 EdTime = 145.6813
+Player Jump: StTime = 120.3314 EdTime = 145.7479
+Player RightMove: StTime = 145.9479 EdTime = 146.5145
+Player Die = 146.614 by gap
+Player Totaltime: StTime = 119.2623 EdTime = 146.614
+Player had score 0

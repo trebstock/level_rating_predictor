@@ -1,0 +1,3 @@
+Player got cheese
+Player got pineapple
+Player had score 2000

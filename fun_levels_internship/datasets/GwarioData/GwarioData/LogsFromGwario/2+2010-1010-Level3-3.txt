@@ -1,0 +1,5 @@
+Player2 got woodenspoon
+Player2 got spinach
+Player got mushrooms
+Player2 had score 2000
+Player had score 1000

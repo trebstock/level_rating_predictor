@@ -1,0 +1,21 @@
+Player RunState: StTime = 54.83252 EdTime = 55.39901
+Player Jump: StTime = 55.19889 EdTime = 55.48234
+Player RightMove: StTime = 53.68223 EdTime = 55.49899
+Player RightMove: StTime = 55.74857 EdTime = 56.4156
+Player Jump: StTime = 55.19889 EdTime = 56.6157
+Player BlockPowerDestroy:  time = 56.81559
+Player Jump: StTime = 55.19889 EdTime = 56.99884
+Player RightMove: StTime = 56.53226 EdTime = 57.88214
+Player RunState: StTime = 55.899 EdTime = 57.93179
+Player Jump: StTime = 55.19889 EdTime = 58.21544
+Player RightMove: StTime = 58.66537 EdTime = 59.08199
+Player Jump: StTime = 55.19889 EdTime = 59.81538
+Player Jump: StTime = 55.19889 EdTime = 60.19862
+Player RunState: StTime = 59.06528 EdTime = 60.36521
+Player RightMove: StTime = 59.46536 EdTime = 60.39851
+Player RightMove: StTime = 60.84817 EdTime = 61.04848
+Player RunState: StTime = 60.54804 EdTime = 61.18192
+Player Jump: StTime = 55.19889 EdTime = 61.33195
+Player Die = 61.86426 by Goomba
+Player Totaltime: StTime = 52.89582 EdTime = 61.86426
+Player had score 0

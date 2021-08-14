@@ -1,0 +1,14 @@
+Player got measuringcup
+Player got socks
+Player got scarf
+Player got pan
+Player got gardenhose
+Player got peas
+Player got muffins
+Player got wrench
+Player got baseballhat
+Player got underwear
+Player got tuna
+Player got cabbage
+Player had score 12000
+Win!

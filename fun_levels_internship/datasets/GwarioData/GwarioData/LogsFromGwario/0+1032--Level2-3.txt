@@ -1,0 +1,14 @@
+Player RightMove: StTime = 105.8143 EdTime = 105.8806
+Player RightMove: StTime = 106.3309 EdTime = 106.8139
+Player Jump: StTime = 106.2637 EdTime = 107.0979
+Player RunState: StTime = 106.0974 EdTime = 107.2302
+Player RightMove: StTime = 107.0309 EdTime = 107.2302
+Player Jump: StTime = 106.2637 EdTime = 109.8637
+Player Jump: StTime = 106.2637 EdTime = 111.0973
+Player got measuringcup
+Player Jump: StTime = 106.2637 EdTime = 112.8307
+Player got scarf
+Player Die = 113.847 by gap
+Player Totaltime: StTime = 105.0441 EdTime = 113.847
+Player had score 2000
+Lost!

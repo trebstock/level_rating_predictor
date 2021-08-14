@@ -1,0 +1,11 @@
+Player got chocolate
+Player got swimsuit
+Player got blanket
+Player got spoon
+Player got onion
+Player got spatula
+Player got cardboardbox
+Player got jacket
+Player got screwdriver
+Player had score 9000
+Lost!

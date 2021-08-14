@@ -1,0 +1,4 @@
+Player got spinach
+Player got shrimp
+Player2 had score 0
+Player had score 2000

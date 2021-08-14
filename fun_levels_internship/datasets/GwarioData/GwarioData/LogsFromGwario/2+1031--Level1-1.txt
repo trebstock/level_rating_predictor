@@ -1,0 +1,13 @@
+Player RightMove: StTime = 82.97863 EdTime = 86.02834
+Player Jump: StTime = 85.5117 EdTime = 86.16161
+Player Jump: StTime = 85.5117 EdTime = 87.17834
+Player got chocolate
+Player LeftMove: StTime = 86.16161 EdTime = 87.26173
+Player Jump: StTime = 85.5117 EdTime = 88.49485
+Player Die = 89.31147 by 
+Player Totaltime: StTime = 82.24204 EdTime = 89.31147
+Player Die = 89.32818 by 
+Player Totaltime: StTime = 82.24204 EdTime = 89.32818
+Player Die = 89.34485 by 
+Player Totaltime: StTime = 82.24204 EdTime = 89.34485
+Player had score 1000

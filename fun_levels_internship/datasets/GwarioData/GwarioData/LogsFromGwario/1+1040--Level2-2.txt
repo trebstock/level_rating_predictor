@@ -1,0 +1,31 @@
+Player BlockPowerDestroy:  time = 84.16812
+Player Jump: StTime = 84.06811 EdTime = 84.35054
+Player BlockPowerDestroy:  time = 84.55144
+Player Jump: StTime = 84.06811 EdTime = 84.73484
+Player RightMove: StTime = 83.48432 EdTime = 85.18416
+Player LittleState: StTime = -17 EdTime = 85.51814
+Player Jump: StTime = 84.06811 EdTime = 87.01706
+Player RightMove: StTime = 86.4505 EdTime = 87.25084
+Player GoombaSquish:  time = 87.3346
+Player Jump: StTime = 84.06811 EdTime = 87.71705
+Player RightMove: StTime = 87.56767 EdTime = 87.8171
+Player Jump: StTime = 84.06811 EdTime = 89.03404
+Player RightMove: StTime = 88.05086 EdTime = 89.4503
+Player KoopaRedSquish:  time = 89.76759
+Player UnleashShell:  time = 90.10103
+Player KoopaRedSquish:  time = 90.45121
+Player UnleashShell:  time = 90.78451
+Player Jump: StTime = 84.06811 EdTime = 91.18402
+Player RightMove: StTime = 91.53392 EdTime = 92.05098
+Player Jump: StTime = 84.06811 EdTime = 92.35072
+Player RightMove: StTime = 92.45058 EdTime = 92.76716
+Player Jump: StTime = 84.06811 EdTime = 93.11776
+Player Die = 93.20109 by ShellRed
+Player Totaltime: StTime = 82.91435 EdTime = 93.20109
+Player Die = 93.21767 by ShellRed
+Player Totaltime: StTime = 82.91435 EdTime = 93.21767
+Player Die = 93.23341 by ShellRed
+Player Totaltime: StTime = 82.91435 EdTime = 93.23341
+Player Die = 93.25052 by ShellRed
+Player Totaltime: StTime = 82.91435 EdTime = 93.25052
+Player had score 0

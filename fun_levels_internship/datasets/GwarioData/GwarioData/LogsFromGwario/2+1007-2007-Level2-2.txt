@@ -1,0 +1,8 @@
+Player got cheese
+Player2 got powerdrill
+Player2 got pot
+Player got pineapple
+Player got breakfastpastry
+Player got porkchop
+Player had score 4000
+Player2 had score 2000

@@ -1,0 +1,9 @@
+Player got powerdrill
+Player got cheese
+Player got pineapple
+Player got breakfastpastry
+Player got porkchop
+Player got dressshirt
+Player got canofpaint
+Player had score 7000
+Lost!

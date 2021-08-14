@@ -1,0 +1,9 @@
+Player got blanket
+Player got spoon
+Player got onion
+Player got spatula
+Player got cardboardbox
+Player got jacket
+Player got orangejuice
+Player got screwdriver
+Player had score 8000

@@ -1,0 +1,3 @@
+Player got piecrust
+Player had score 1000
+Win!

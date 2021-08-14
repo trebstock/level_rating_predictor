@@ -1,0 +1,17 @@
+Player RunState: StTime = 62.4516 EdTime = 62.58479
+Player RightMove: StTime = 65.4175 EdTime = 66.06817
+Player Jump: StTime = 65.584 EdTime = 66.41791
+Player LeftMove: StTime = 66.85129 EdTime = 67.41806
+Player Jump: StTime = 65.584 EdTime = 68.25037
+Player RightMove: StTime = 67.51724 EdTime = 68.78378
+Player Jump: StTime = 65.584 EdTime = 69.28447
+Player RightMove: StTime = 69.23435 EdTime = 69.36716
+Player BlockPowerDestroy:  time = 71.23431
+Player RightMove: StTime = 69.53436 EdTime = 71.41752
+Player Jump: StTime = 65.584 EdTime = 71.41752
+Player RunState: StTime = 70.80096 EdTime = 71.46757
+Player BlockPowerDestroy:  time = 72.56742
+Player Die = 72.68407 by 
+Player Totaltime: StTime = 62.38162 EdTime = 72.68407
+Player had score 0
+Lost!

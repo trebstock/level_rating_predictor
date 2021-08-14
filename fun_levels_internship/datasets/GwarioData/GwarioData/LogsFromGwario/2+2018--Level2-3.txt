@@ -1,0 +1,35 @@
+Player RightMove: StTime = 32.14937 EdTime = 32.21575
+Player RunState: StTime = 32.58255 EdTime = 32.6659
+Player RightMove: StTime = 32.46615 EdTime = 33.09961
+Player Jump: StTime = 32.39934 EdTime = 33.21578
+Player BlockPowerDestroy:  time = 33.49902
+Player RightMove: StTime = 33.31621 EdTime = 33.58326
+Player Jump: StTime = 32.39934 EdTime = 33.6833
+Player LittleState: StTime = -17 EdTime = 34.84969
+Player Jump: StTime = 32.39934 EdTime = 37.98306
+Player Jump: StTime = 32.39934 EdTime = 39.23202
+Player RightMove: StTime = 33.91563 EdTime = 41.91628
+Player Jump: StTime = 32.39934 EdTime = 41.91628
+Player RightMove: StTime = 42.5828 EdTime = 42.84948
+Player RightMove: StTime = 46.03268 EdTime = 46.19943
+Player Jump: StTime = 32.39934 EdTime = 49.04957
+Player RightMove: StTime = 46.91517 EdTime = 50.06594
+Player Jump: StTime = 32.39934 EdTime = 51.68212
+Player RightMove: StTime = 50.28174 EdTime = 51.76511
+Player Jump: StTime = 32.39934 EdTime = 52.84874
+Player RightMove: StTime = 52.21511 EdTime = 53.89914
+Player Jump: StTime = 32.39934 EdTime = 55.69904
+Player Jump: StTime = 32.39934 EdTime = 57.29895
+Player RightMove: StTime = 54.03185 EdTime = 57.69896
+Player LeftMove: StTime = 57.94854 EdTime = 58.08216
+Player got peas
+Player RightMove: StTime = 58.39887 EdTime = 58.79899
+Player Jump: StTime = 32.39934 EdTime = 58.81472
+Player RightMove: StTime = 58.99892 EdTime = 59.13205
+Player got muffins
+Player Jump: StTime = 32.39934 EdTime = 59.76553
+Player RightMove: StTime = 59.56557 EdTime = 60.39885
+Player RightMove: StTime = 60.61446 EdTime = 60.76565
+Player Die = 60.93203 by gap
+Player Totaltime: StTime = 31.72922 EdTime = 60.93203
+Player had score 2000

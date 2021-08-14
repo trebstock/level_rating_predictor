@@ -1,0 +1,24 @@
+Player RunState: StTime = 77.04324 EdTime = 77.22661
+Player Jump: StTime = 76.84328 EdTime = 77.67655
+Player RightMove: StTime = 77.2094 EdTime = 80.40966
+Player RunState: StTime = 78.95973 EdTime = 80.64241
+Player Jump: StTime = 76.84328 EdTime = 81.34292
+Player RightMove: StTime = 80.89292 EdTime = 81.55956
+Player RunState: StTime = 80.84292 EdTime = 81.59293
+Player RightMove: StTime = 82.29287 EdTime = 82.70885
+Player Jump: StTime = 76.84328 EdTime = 83.45948
+Player RightMove: StTime = 83.25865 EdTime = 84.82608
+Player got measuringcup
+Player Jump: StTime = 76.84328 EdTime = 85.72546
+Player RightMove: StTime = 85.29189 EdTime = 86.34206
+Player RunState: StTime = 82.00956 EdTime = 86.35863
+Player got scarf
+Player RunState: StTime = 86.49249 EdTime = 86.80865
+Player Jump: StTime = 76.84328 EdTime = 87.15896
+Player LeftMove: StTime = 87.20863 EdTime = 87.65821
+Player got socks
+Player Jump: StTime = 76.84328 EdTime = 88.45918
+Player RightMove: StTime = 88.30927 EdTime = 89.55861
+Player Die = 89.80874 by gap
+Player Totaltime: StTime = 76.04004 EdTime = 89.80874
+Player had score 3000

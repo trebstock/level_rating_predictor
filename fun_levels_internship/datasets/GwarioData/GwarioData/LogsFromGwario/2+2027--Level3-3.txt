@@ -1,0 +1,73 @@
+Player LeftMove: StTime = 62.95415 EdTime = 63.22197
+Player BlockPowerDestroy:  time = 63.3218
+Player Jump: StTime = 63.22197 EdTime = 63.50528
+Player RightMove: StTime = 63.65456 EdTime = 63.90528
+Player BlockPowerDestroy:  time = 64.0386
+Player Jump: StTime = 63.22197 EdTime = 64.22099
+Player LeftMove: StTime = 64.17156 EdTime = 64.32092
+Player LeftMove: StTime = 64.63847 EdTime = 64.93847
+Player RightMove: StTime = 65.0209 EdTime = 65.18848
+Player RightMove: StTime = 65.52084 EdTime = 66.60486
+Player Jump: StTime = 63.22197 EdTime = 67.32177
+Player RightMove: StTime = 67.05502 EdTime = 67.67139
+Player RightMove: StTime = 67.72076 EdTime = 68.17172
+Player RightMove: StTime = 68.50504 EdTime = 69.45402
+Player Jump: StTime = 63.22197 EdTime = 69.75504
+Player Jump: StTime = 63.22197 EdTime = 71.93815
+Player Jump: StTime = 63.22197 EdTime = 72.6382
+Player LeftMove: StTime = 72.88718 EdTime = 74.35438
+Player RightMove: StTime = 74.45412 EdTime = 74.65386
+Player Jump: StTime = 63.22197 EdTime = 77.08758
+Player RightMove: StTime = 76.688 EdTime = 77.23752
+Player RightMove: StTime = 77.4712 EdTime = 77.98801
+Player RightMove: StTime = 78.23756 EdTime = 78.52031
+Player RightMove: StTime = 78.8543 EdTime = 79.00458
+Player got jeans
+Player Jump: StTime = 63.22197 EdTime = 79.63786
+Player LeftMove: StTime = 79.72024 EdTime = 81.28747
+Player Jump: StTime = 63.22197 EdTime = 81.48718
+Player RightMove: StTime = 81.42117 EdTime = 83.33765
+Player RightMove: StTime = 83.82101 EdTime = 84.48762
+Player RightMove: StTime = 88.8875 EdTime = 89.28733
+Player RightMove: StTime = 89.37082 EdTime = 89.4198
+Player Jump: StTime = 63.22197 EdTime = 89.61989
+Player Jump: StTime = 63.22197 EdTime = 90.70412
+Player RightMove: StTime = 90.27036 EdTime = 90.90403
+Player got sneakers
+Player RightMove: StTime = 91.25405 EdTime = 91.68742
+Player Jump: StTime = 63.22197 EdTime = 91.85406
+Player Die = 91.93716 by RedKoopa
+Player Totaltime: StTime = 61.06824 EdTime = 91.93716
+Player Die = 91.93716 by RedKoopa
+Player Totaltime: StTime = 61.06824 EdTime = 91.93716
+Player Die = 91.95403 by RedKoopa
+Player Totaltime: StTime = 61.06824 EdTime = 91.95403
+Player Die = 91.97073 by RedKoopa
+Player Totaltime: StTime = 61.06824 EdTime = 91.97073
+Player Die = 91.98625 by RedKoopa
+Player Totaltime: StTime = 61.06824 EdTime = 91.98625
+Player Die = 92.00314 by RedKoopa
+Player Totaltime: StTime = 61.06824 EdTime = 92.00314
+Player Die = 92.02032 by RedKoopa
+Player Totaltime: StTime = 61.06824 EdTime = 92.02032
+Player Die = 92.03735 by RedKoopa
+Player Totaltime: StTime = 61.06824 EdTime = 92.03735
+Player Die = 92.1039 by RedKoopa
+Player Totaltime: StTime = 61.06824 EdTime = 92.1039
+Player Die = 92.12065 by RedKoopa
+Player Totaltime: StTime = 61.06824 EdTime = 92.12065
+Player Die = 92.1373 by RedKoopa
+Player Totaltime: StTime = 61.06824 EdTime = 92.1373
+Player Die = 92.15408 by RedKoopa
+Player Totaltime: StTime = 61.06824 EdTime = 92.15408
+Player Die = 92.16962 by RedKoopa
+Player Totaltime: StTime = 61.06824 EdTime = 92.16962
+Player Die = 92.18641 by RedKoopa
+Player Totaltime: StTime = 61.06824 EdTime = 92.18641
+Player Die = 92.25309 by RedKoopa
+Player Totaltime: StTime = 61.06824 EdTime = 92.25309
+Player Die = 92.27069 by RedKoopa
+Player Totaltime: StTime = 61.06824 EdTime = 92.27069
+Player Die = 92.2873 by RedKoopa
+Player Totaltime: StTime = 61.06824 EdTime = 92.2873
+Player had score 2000

@@ -1,0 +1,53 @@
+Player RightMove: StTime = 16.06191 EdTime = 16.31125
+Player LeftMove: StTime = 16.61183 EdTime = 16.96181
+Player BlockPowerDestroy:  time = 17.49467
+Player Jump: StTime = 17.39517 EdTime = 17.67839
+Player LeftMove: StTime = 17.84474 EdTime = 18.04509
+Player RightMove: StTime = 18.24509 EdTime = 19.49507
+Player LeftMove: StTime = 19.74499 EdTime = 20.12841
+Player RightMove: StTime = 20.795 EdTime = 20.94498
+Player Jump: StTime = 17.39517 EdTime = 21.04489
+Player RightMove: StTime = 21.49496 EdTime = 21.89498
+Player Jump: StTime = 17.39517 EdTime = 21.99498
+Player RightMove: StTime = 22.19394 EdTime = 23.4281
+Player LeftMove: StTime = 24.66137 EdTime = 25.17796
+Player RightMove: StTime = 25.42793 EdTime = 26.31113
+Player Jump: StTime = 17.39517 EdTime = 26.76117
+Player RightMove: StTime = 27.12757 EdTime = 28.34423
+Player Jump: StTime = 17.39517 EdTime = 28.944
+Player LeftMove: StTime = 28.74401 EdTime = 29.89383
+Player got jeans
+Player Jump: StTime = 17.39517 EdTime = 30.67719
+Player RightMove: StTime = 30.71042 EdTime = 31.57698
+Player RightMove: StTime = 32.02693 EdTime = 32.34356
+Player Jump: StTime = 17.39517 EdTime = 32.54358
+Player RightMove: StTime = 32.76115 EdTime = 33.21021
+Player Jump: StTime = 17.39517 EdTime = 33.36039
+Player got sneakers
+Player RightMove: StTime = 33.61004 EdTime = 34.5944
+Player KoopaRedSquish:  time = 35.06105
+Player Die = 35.07772 by RedKoopa
+Player Totaltime: StTime = 14.75842 EdTime = 35.07772
+Player Die = 35.07772 by RedKoopa
+Player Totaltime: StTime = 14.75842 EdTime = 35.07772
+Player Die = 35.09437 by RedKoopa
+Player Totaltime: StTime = 14.75842 EdTime = 35.09437
+Player Die = 35.11105 by RedKoopa
+Player Totaltime: StTime = 14.75842 EdTime = 35.11105
+Player Die = 35.12772 by RedKoopa
+Player Totaltime: StTime = 14.75842 EdTime = 35.12772
+Player Die = 35.14436 by RedKoopa
+Player Totaltime: StTime = 14.75842 EdTime = 35.14436
+Player Die = 35.16099 by RedKoopa
+Player Totaltime: StTime = 14.75842 EdTime = 35.16099
+Player Die = 35.17771 by RedKoopa
+Player Totaltime: StTime = 14.75842 EdTime = 35.17771
+Player Die = 35.19439 by RedKoopa
+Player Totaltime: StTime = 14.75842 EdTime = 35.19439
+Player Die = 35.21106 by RedKoopa
+Player Totaltime: StTime = 14.75842 EdTime = 35.21106
+Player Die = 35.2267 by RedKoopa
+Player Totaltime: StTime = 14.75842 EdTime = 35.2267
+Player Die = 35.24439 by RedKoopa
+Player Totaltime: StTime = 14.75842 EdTime = 35.24439
+Player had score 2000

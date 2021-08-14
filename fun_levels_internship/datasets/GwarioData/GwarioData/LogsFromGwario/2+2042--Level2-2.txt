@@ -1,0 +1,42 @@
+Player RightMove: StTime = 87.90951 EdTime = 88.59262
+Player BlockPowerDestroy:  time = 88.65866
+Player Jump: StTime = 88.55894 EdTime = 88.84267
+Player RightMove: StTime = 88.8592 EdTime = 89.0092
+Player BlockPowerDestroy:  time = 89.07573
+Player Jump: StTime = 88.55894 EdTime = 89.25934
+Player LittleState: StTime = -17 EdTime = 89.59225
+Player RightMove: StTime = 89.27589 EdTime = 90.00915
+Player Jump: StTime = 88.55894 EdTime = 91.22588
+Player Jump: StTime = 88.55894 EdTime = 92.07577
+Player Jump: StTime = 88.55894 EdTime = 92.90813
+Player RightMove: StTime = 90.77581 EdTime = 93.10911
+Player RightMove: StTime = 93.60821 EdTime = 93.759
+Player KoopaRedSquish:  time = 94.02534
+Player LeftMove: StTime = 94.00909 EdTime = 94.17495
+Player UnleashShell:  time = 94.35908
+Player RightMove: StTime = 94.37538 EdTime = 94.54253
+Player LeftMove: StTime = 94.89213 EdTime = 95.07543
+Player Jump: StTime = 88.55894 EdTime = 95.37533
+Player RightMove: StTime = 95.77486 EdTime = 96.90781
+Player GoombaSquish:  time = 96.90781
+Player RightMove: StTime = 96.92455 EdTime = 97.10811
+Player Jump: StTime = 88.55894 EdTime = 97.47503
+Player Jump: StTime = 88.55894 EdTime = 100.0584
+Player RightMove: StTime = 97.44166 EdTime = 100.3419
+Player RightMove: StTime = 100.441 EdTime = 100.492
+Player RightMove: StTime = 100.5917 EdTime = 100.7578
+Player Jump: StTime = 88.55894 EdTime = 100.8919
+Player Jump: StTime = 88.55894 EdTime = 102.9745
+Player Jump: StTime = 88.55894 EdTime = 103.4914
+Player RightMove: StTime = 102.1082 EdTime = 104.0912
+Player RightMove: StTime = 105.1243 EdTime = 107.5574
+Player RightMove: StTime = 108.0906 EdTime = 108.2741
+Player Jump: StTime = 88.55894 EdTime = 108.7737
+Player LeftMove: StTime = 108.3905 EdTime = 108.957
+Player Jump: StTime = 88.55894 EdTime = 109.9403
+Player RightMove: StTime = 108.9903 EdTime = 110.9902
+Player Jump: StTime = 88.55894 EdTime = 111.29
+Player RightMove: StTime = 111.5236 EdTime = 112.4741
+Player Die = 112.6402 by gap
+Player Totaltime: StTime = 87.12279 EdTime = 112.6402
+Player had score 0

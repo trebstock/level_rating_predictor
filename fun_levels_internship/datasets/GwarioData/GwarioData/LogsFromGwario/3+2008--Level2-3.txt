@@ -1,0 +1,7 @@
+Player got socks
+Player got scarf
+Player got wrench
+Player got baseballhat
+Player got underwear
+Player had score 5000
+Win!

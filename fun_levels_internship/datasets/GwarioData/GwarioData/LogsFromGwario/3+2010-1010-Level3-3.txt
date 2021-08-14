@@ -1,0 +1,7 @@
+Player2 got shrimp
+Player2 got woodenspoon
+Player2 got spinach
+Player2 got sneakers
+Player2 got tshirt
+Player2 had score 5000
+Player had score 0

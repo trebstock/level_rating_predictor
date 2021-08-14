@@ -1,0 +1,43 @@
+Player BlockPowerDestroy:  time = 337.6453
+Player RightMove: StTime = 337.0119 EdTime = 337.729
+Player Jump: StTime = 337.5452 EdTime = 337.8287
+Player RightMove: StTime = 338.1458 EdTime = 338.2289
+Player RightMove: StTime = 338.2956 EdTime = 338.3456
+Player Jump: StTime = 337.5452 EdTime = 339.0955
+Player RightMove: StTime = 338.9955 EdTime = 339.3788
+Player RightMove: StTime = 339.4289 EdTime = 339.7118
+Player Jump: StTime = 337.5452 EdTime = 339.8123
+Player LeftMove: StTime = 339.7446 EdTime = 340.4621
+Player RightMove: StTime = 340.4621 EdTime = 341.1787
+Player Jump: StTime = 337.5452 EdTime = 341.611
+Player LeftMove: StTime = 341.2285 EdTime = 342.0287
+Player BlockPowerDestroy:  time = 342.0287
+Player Jump: StTime = 337.5452 EdTime = 342.2119
+Player LittleState: StTime = -17 EdTime = 343.1283
+Player RightMove: StTime = 342.3784 EdTime = 343.2442
+Player RightMove: StTime = 343.5285 EdTime = 343.6116
+Player Jump: StTime = 337.5452 EdTime = 344.095
+Player LeftMove: StTime = 343.7283 EdTime = 344.2945
+Player RightMove: StTime = 344.6615 EdTime = 345.1281
+Player Jump: StTime = 337.5452 EdTime = 348.6607
+Player Jump: StTime = 337.5452 EdTime = 349.0272
+Player RightMove: StTime = 348.0441 EdTime = 349.3273
+Player Jump: StTime = 337.5452 EdTime = 350.127
+Player RightMove: StTime = 349.5439 EdTime = 350.2603
+Player GoombaSquish:  time = 350.8437
+Player RightMove: StTime = 350.7612 EdTime = 350.8773
+Player Jump: StTime = 337.5452 EdTime = 351.2279
+Player RightMove: StTime = 351.6613 EdTime = 351.7445
+Player KoopaRedSquish:  time = 351.9446
+Player UnleashShell:  time = 352.2778
+Player Jump: StTime = 337.5452 EdTime = 352.6603
+Player RightMove: StTime = 353.0108 EdTime = 353.1607
+Player Jump: StTime = 337.5452 EdTime = 355.1107
+Player RightMove: StTime = 353.9608 EdTime = 356.2441
+Player got cheese
+Player Jump: StTime = 337.5452 EdTime = 356.9104
+Player RightMove: StTime = 356.9104 EdTime = 358.4774
+Player Die = 358.5607 by gap
+Player Totaltime: StTime = 336.4585 EdTime = 358.5607
+Player had score 1000
+Lost!

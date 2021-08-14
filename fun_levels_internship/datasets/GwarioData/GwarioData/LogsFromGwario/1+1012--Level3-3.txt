@@ -1,0 +1,7 @@
+Player got shrimp
+Player got spinach
+Player got butternutsquash
+Player got mushrooms
+Player got s+pshakers
+Player had score 5000
+Win!

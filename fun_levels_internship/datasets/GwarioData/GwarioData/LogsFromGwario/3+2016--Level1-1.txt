@@ -1,0 +1,16 @@
+Player Jump: StTime = 11.49545 EdTime = 12.0119
+Player Jump: StTime = 11.49545 EdTime = 13.1116
+Player RunState: StTime = 12.96181 EdTime = 13.14499
+Player RightMove: StTime = 12.67842 EdTime = 14.29444
+Player Jump: StTime = 11.49545 EdTime = 14.86106
+Player Jump: StTime = 11.49545 EdTime = 15.29441
+Player Jump: StTime = 11.49545 EdTime = 15.77759
+Player BlockPowerDestroy:  time = 16.661
+Player RightMove: StTime = 15.07779 EdTime = 16.72743
+Player Jump: StTime = 11.49545 EdTime = 16.84454
+Player LeftMove: StTime = 17.09423 EdTime = 17.16152
+Player BlockPowerDestroy:  time = 18.17796
+Player RightMove: StTime = 17.17758 EdTime = 18.24443
+Player Die = 18.2777 by 
+Player Totaltime: StTime = 10.20908 EdTime = 18.2777
+Player had score 0

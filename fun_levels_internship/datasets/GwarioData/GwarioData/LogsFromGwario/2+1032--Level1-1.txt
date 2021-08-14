@@ -1,0 +1,32 @@
+Player Jump: StTime = 42.54688 EdTime = 42.98014
+Player RightMove: StTime = 42.04676 EdTime = 43.11343
+Player RunState: StTime = 41.9969 EdTime = 43.12942
+Player LeftMove: StTime = 43.29591 EdTime = 43.73014
+Player Jump: StTime = 42.54688 EdTime = 45.02936
+Player BlockPowerDestroy:  time = 45.22998
+Player RunState: StTime = 44.24626 EdTime = 45.31289
+Player RightMove: StTime = 43.73014 EdTime = 45.32966
+Player Jump: StTime = 42.54688 EdTime = 45.4132
+Player LeftMove: StTime = 45.61333 EdTime = 46.49641
+Player Jump: StTime = 42.54688 EdTime = 46.76351
+Player RightMove: StTime = 46.69625 EdTime = 46.81351
+Player RunState: StTime = 46.56254 EdTime = 46.93017
+Player RightMove: StTime = 47.0457 EdTime = 47.21295
+Player Jump: StTime = 42.54688 EdTime = 48.12905
+Player RightMove: StTime = 47.84657 EdTime = 48.26239
+Player RunState: StTime = 47.11313 EdTime = 48.29558
+Player RunState: StTime = 48.52929 EdTime = 48.6628
+Player LeftMove: StTime = 48.44566 EdTime = 48.67943
+Player Jump: StTime = 42.54688 EdTime = 49.49649
+Player Jump: StTime = 42.54688 EdTime = 50.32959
+Player RightMove: StTime = 49.1963 EdTime = 50.94622
+Player RunState: StTime = 49.09633 EdTime = 51.29603
+Player Die = 51.97951 by 
+Player Totaltime: StTime = 41.21031 EdTime = 51.97951
+Player Die = 51.9964 by 
+Player Totaltime: StTime = 41.21031 EdTime = 51.9964
+Player Die = 52.01295 by 
+Player Totaltime: StTime = 41.21031 EdTime = 52.01295
+Player Die = 52.02881 by 
+Player Totaltime: StTime = 41.21031 EdTime = 52.02881
+Player had score 0

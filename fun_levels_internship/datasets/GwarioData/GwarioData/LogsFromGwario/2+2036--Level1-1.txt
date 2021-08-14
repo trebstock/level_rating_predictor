@@ -1,0 +1,73 @@
+Player RightMove: StTime = 77.49696 EdTime = 78.8636
+Player RightMove: StTime = 78.94691 EdTime = 80.83015
+Player BlockPowerDestroy:  time = 80.93018
+Player Jump: StTime = 80.83015 EdTime = 81.11355
+Player RightMove: StTime = 81.31287 EdTime = 81.92979
+Player LeftMove: StTime = 84.44662 EdTime = 84.84663
+Player LeftMove: StTime = 86.49662 EdTime = 86.89603
+Player LittleState: StTime = -17 EdTime = 87.1132
+Player RightMove: StTime = 86.96318 EdTime = 87.29552
+Player LeftMove: StTime = 87.32945 EdTime = 87.9957
+Player RightMove: StTime = 88.01318 EdTime = 88.44582
+Player RightMove: StTime = 88.49568 EdTime = 88.82981
+Player Jump: StTime = 80.83015 EdTime = 88.89603
+Player Jump: StTime = 80.83015 EdTime = 89.9631
+Player LeftMove: StTime = 88.99629 EdTime = 90.04607
+Player LeftMove: StTime = 90.37914 EdTime = 91.07887
+Player got swimsuit
+Player Jump: StTime = 80.83015 EdTime = 91.21223
+Player RightMove: StTime = 91.46302 EdTime = 92.1293
+Player Jump: StTime = 80.83015 EdTime = 92.42965
+Player Jump: StTime = 80.83015 EdTime = 93.76256
+Player Jump: StTime = 80.83015 EdTime = 95.27957
+Player RightMove: StTime = 92.56214 EdTime = 95.57963
+Player RightMove: StTime = 100.0623 EdTime = 100.4794
+Player Jump: StTime = 80.83015 EdTime = 101.0126
+Player RightMove: StTime = 100.596 EdTime = 101.3288
+Player Jump: StTime = 80.83015 EdTime = 101.546
+Player BlockEmptyDestroy:  time = 102.1623
+Player Jump: StTime = 80.83015 EdTime = 102.3625
+Player RightMove: StTime = 101.7124 EdTime = 103.0126
+Player Jump: StTime = 80.83015 EdTime = 104.8793
+Player RightMove: StTime = 103.2959 EdTime = 105.1457
+Player LeftMove: StTime = 105.6621 EdTime = 105.7958
+Player LeftMove: StTime = 106.2449 EdTime = 106.3453
+Player RightMove: StTime = 106.6953 EdTime = 106.8616
+Player RightMove: StTime = 106.8784 EdTime = 107.2123
+Player Jump: StTime = 80.83015 EdTime = 107.2789
+Player LeftMove: StTime = 108.2452 EdTime = 108.3451
+Player got spatula
+Player BlockEmptyDestroy:  time = 108.7281
+Player Jump: StTime = 80.83015 EdTime = 108.8789
+Player RightMove: StTime = 109.2281 EdTime = 110.945
+Player BlockEmptyDestroy:  time = 111.1452
+Player Jump: StTime = 80.83015 EdTime = 111.2948
+Player LeftMove: StTime = 111.7455 EdTime = 111.9623
+Player got blanket
+Player BlockEmptyDestroy:  time = 112.2955
+Player Jump: StTime = 80.83015 EdTime = 112.4453
+Player Jump: StTime = 80.83015 EdTime = 113.9446
+Player got spoon
+Player LeftMove: StTime = 113.345 EdTime = 114.0779
+Player RightMove: StTime = 114.4946 EdTime = 115.6121
+Player Jump: StTime = 80.83015 EdTime = 115.695
+Player Jump: StTime = 80.83015 EdTime = 117.2953
+Player got cardboardbox
+Player RightMove: StTime = 115.9619 EdTime = 118.2787
+Player RightMove: StTime = 118.5786 EdTime = 118.6953
+Player LeftMove: StTime = 118.9782 EdTime = 119.5942
+Player got jacket
+Player Jump: StTime = 80.83015 EdTime = 120.6119
+Player Jump: StTime = 80.83015 EdTime = 121.9118
+Player got screwdriver
+Player RightMove: StTime = 119.6113 EdTime = 122.195
+Player Jump: StTime = 80.83015 EdTime = 123.9775
+Player Jump: StTime = 80.83015 EdTime = 124.4118
+Player Jump: StTime = 80.83015 EdTime = 125.9272
+Player Jump: StTime = 80.83015 EdTime = 127.4446
+Player RightMove: StTime = 122.7784 EdTime = 128.8776
+Player KoopaRedSquish:  time = 128.8776
+Player Jump: StTime = 80.83015 EdTime = 129.5447
+Player Die = 130.5442 by gap
+Player Totaltime: StTime = 76.39371 EdTime = 130.5442
+Player had score 7000

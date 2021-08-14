@@ -1,0 +1,29 @@
+Player RightMove: StTime = 158.6096 EdTime = 158.71
+Player Jump: StTime = 158.8257 EdTime = 159.2933
+Player RightMove: StTime = 159.1933 EdTime = 159.7598
+Player RunState: StTime = 159.9266 EdTime = 160.1261
+Player BlockPowerDestroy:  time = 160.5766
+Player RightMove: StTime = 160.6099 EdTime = 160.7261
+Player Jump: StTime = 158.8257 EdTime = 160.7598
+Player LittleState: StTime = -17 EdTime = 161.9595
+Player RightMove: StTime = 160.9926 EdTime = 161.9765
+Player RightMove: StTime = 163.5097 EdTime = 163.993
+Player Jump: StTime = 158.8257 EdTime = 164.0764
+Player RightMove: StTime = 164.3429 EdTime = 164.5764
+Player Jump: StTime = 158.8257 EdTime = 164.7597
+Player RightMove: StTime = 165.1097 EdTime = 165.5591
+Player RightMove: StTime = 165.9929 EdTime = 166.4591
+Player RightMove: StTime = 167.0429 EdTime = 167.1423
+Player RightMove: StTime = 167.7596 EdTime = 168.1422
+Player Jump: StTime = 158.8257 EdTime = 168.4751
+Player RightMove: StTime = 168.692 EdTime = 168.9755
+Player KoopaRedSquish:  time = 170.1758
+Player got powerdrill
+Player Jump: StTime = 158.8257 EdTime = 171.1761
+Player RightMove: StTime = 169.2253 EdTime = 171.3261
+Player RightMove: StTime = 171.3928 EdTime = 171.6251
+Player got cheese
+Player RunState: StTime = 172.176 EdTime = 172.3927
+Player Die = 172.7927 by gap
+Player Totaltime: StTime = 158.5896 EdTime = 172.7927
+Player had score 2000

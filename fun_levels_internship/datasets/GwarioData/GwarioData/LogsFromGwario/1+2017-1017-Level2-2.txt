@@ -1,0 +1,39 @@
+Player RightMove: StTime = 151.2132 EdTime = 151.6294
+Player RightMove: StTime = 151.8966 EdTime = 152.0627
+Player2 RightMove: StTime = 151.4137 EdTime = 152.496
+Player2 BlockPowerDestroy:  time = 152.6628
+Player2 Jump: StTime = 152.5636 EdTime = 152.847
+Player2 RightMove: StTime = 152.5969 EdTime = 152.8966
+Player2 BlockPowerDestroy:  time = 154.0468
+Player LeftMove: StTime = 153.7135 EdTime = 154.1802
+Player2 RightMove: StTime = 153.9631 EdTime = 154.1968
+Player2 LeftMove: StTime = 154.1968 EdTime = 154.2135
+Player2 Jump: StTime = 152.5636 EdTime = 154.2302
+Player2 LittleState: StTime = -17 EdTime = 154.5136
+Player LeftMove: StTime = 154.4292 EdTime = 154.7458
+Player2 RightMove: StTime = 154.3625 EdTime = 154.7458
+Player2 LeftMove: StTime = 154.7458 EdTime = 155.3458
+Player Die = 157.9461 by gap
+Player Totaltime: StTime = 150.6437 EdTime = 157.9461
+Player Die = 157.9461 by gap
+Player Totaltime: StTime = 150.6437 EdTime = 157.9461
+Player2 LeftMove: StTime = 157.8801 EdTime = 158.5634
+Player2 RightMove: StTime = 159.2625 EdTime = 160.5633
+Player2 Jump: StTime = 152.5636 EdTime = 161.2464
+Player2 Jump: StTime = 152.5636 EdTime = 161.5966
+Player2 Jump: StTime = 152.5636 EdTime = 163.9631
+Player2 RightMove: StTime = 160.6799 EdTime = 164.4958
+Player2 got powerdrill
+Player2 RightMove: StTime = 164.5131 EdTime = 165.1962
+Player2 got cheese
+Player2 got cheese
+Player2 Jump: StTime = 152.5636 EdTime = 165.3463
+Player2 RightMove: StTime = 165.2131 EdTime = 165.4299
+Player2 LeftMove: StTime = 165.4463 EdTime = 165.8797
+Player2 RightMove: StTime = 165.8797 EdTime = 167.6964
+Player2 Jump: StTime = 152.5636 EdTime = 167.6964
+Player2 RightMove: StTime = 167.713 EdTime = 167.7629
+Player2 Die = 168.013 by gap
+Player2 Totaltime: StTime = 150.6437 EdTime = 168.013
+Player had score 0
+Player2 had score 3000

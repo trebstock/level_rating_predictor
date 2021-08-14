@@ -1,0 +1,95 @@
+Player LeftMove: StTime = 47.80164 EdTime = 48.15074
+Player LeftMove: StTime = 48.6016 EdTime = 48.68492
+Player BlockPowerDestroy:  time = 48.75168
+Player Jump: StTime = 48.65073 EdTime = 48.93502
+Player RightMove: StTime = 48.91787 EdTime = 49.46835
+Player LittleState: StTime = -17 EdTime = 50.08498
+Player RightMove: StTime = 49.86834 EdTime = 50.31831
+Player BlockPowerDestroy:  time = 51.35164
+Player LeftMove: StTime = 50.31831 EdTime = 51.38498
+Player Jump: StTime = 48.65073 EdTime = 51.50157
+Player RightMove: StTime = 51.38498 EdTime = 51.88491
+Player LeftMove: StTime = 52.03451 EdTime = 52.16766
+Player LeftMove: StTime = 52.28489 EdTime = 52.45147
+Player Jump: StTime = 48.65073 EdTime = 52.55096
+Player RightMove: StTime = 52.46816 EdTime = 52.58414
+Player RightMove: StTime = 52.70142 EdTime = 53.16821
+Player Jump: StTime = 48.65073 EdTime = 53.21803
+Player RightMove: StTime = 53.3514 EdTime = 54.08376
+Player Jump: StTime = 48.65073 EdTime = 54.21811
+Player RunState: StTime = 54.80146 EdTime = 54.98481
+Player Firekill: EnemyType = RedKoopa time = 55.16813
+Player RightMove: StTime = 54.96815 EdTime = 55.18472
+Player Jump: StTime = 48.65073 EdTime = 55.28477
+Player RunState: StTime = 55.55042 EdTime = 56.15147
+Player RightMove: StTime = 55.71804 EdTime = 56.16793
+Player got shrimp
+Player Jump: StTime = 48.65073 EdTime = 56.28439
+Player RightMove: StTime = 56.50087 EdTime = 56.81806
+Player Jump: StTime = 48.65073 EdTime = 57.13464
+Player RightMove: StTime = 57.18472 EdTime = 57.31805
+Player got woodenspoon
+Player Jump: StTime = 48.65073 EdTime = 57.86699
+Player LeftMove: StTime = 57.60141 EdTime = 58.58449
+Player Jump: StTime = 48.65073 EdTime = 58.80132
+Player RightMove: StTime = 58.60131 EdTime = 60.03463
+Player Jump: StTime = 48.65073 EdTime = 60.35117
+Player RightMove: StTime = 60.50121 EdTime = 60.91774
+Player LeftMove: StTime = 60.91774 EdTime = 61.61785
+Player Jump: StTime = 48.65073 EdTime = 61.63454
+Player RightMove: StTime = 61.70103 EdTime = 61.86785
+Player got spinach
+Player RightMove: StTime = 62.35114 EdTime = 62.40009
+Player RunState: StTime = 58.61757 EdTime = 62.48447
+Player Jump: StTime = 48.65073 EdTime = 62.53447
+Player RunState: StTime = 62.60114 EdTime = 62.70114
+Player RightMove: StTime = 62.75114 EdTime = 62.78447
+Player RunState: StTime = 62.78447 EdTime = 62.85092
+Player RightMove: StTime = 62.83427 EdTime = 63.11734
+Player RunState: StTime = 63.10041 EdTime = 63.25114
+Player RightMove: StTime = 63.48447 EdTime = 63.68447
+Player RunState: StTime = 63.70112 EdTime = 63.80101
+Player Jump: StTime = 48.65073 EdTime = 63.95114
+Player LeftMove: StTime = 63.90018 EdTime = 64.03439
+Player RightMove: StTime = 64.18375 EdTime = 64.28381
+Player RightMove: StTime = 65.0677 EdTime = 65.30106
+Player RightMove: StTime = 65.54999 EdTime = 65.71771
+Player RunState: StTime = 65.85033 EdTime = 65.95097
+Player Jump: StTime = 48.65073 EdTime = 66.04993
+Player RunState: StTime = 66.0343 EdTime = 66.13417
+Player RunState: StTime = 66.2343 EdTime = 66.33438
+Player RightMove: StTime = 66.16756 EdTime = 66.33438
+Player RunState: StTime = 66.41669 EdTime = 66.51653
+Player Firekill: EnemyType = RedKoopa time = 66.51653
+Player RightMove: StTime = 66.46755 EdTime = 66.70089
+Player RunState: StTime = 66.61694 EdTime = 66.73422
+Player RunState: StTime = 66.81755 EdTime = 66.90033
+Player Firekill: EnemyType = RedKoopa time = 67.09989
+Player RunState: StTime = 67.01656 EdTime = 67.11686
+Player RightMove: StTime = 67.09989 EdTime = 67.26658
+Player RunState: StTime = 67.21677 EdTime = 67.33414
+Player RunState: StTime = 67.43312 EdTime = 67.55036
+Player RightMove: StTime = 67.4167 EdTime = 67.61658
+Player RunState: StTime = 67.65008 EdTime = 67.7838
+Player Firekill: EnemyType = RedKoopa time = 67.88422
+Player RunState: StTime = 67.86722 EdTime = 67.9675
+Player RightMove: StTime = 67.81747 EdTime = 67.98338
+Player got tshirt
+Player got pipes
+Player RightMove: StTime = 68.28364 EdTime = 68.83324
+Player Jump: StTime = 48.65073 EdTime = 68.96674
+Player RightMove: StTime = 69.13321 EdTime = 69.88415
+Player RightMove: StTime = 69.98415 EdTime = 70.10063
+Player RunState: StTime = 69.88415 EdTime = 70.73371
+Player LeftMove: StTime = 70.10063 EdTime = 70.73371
+Player RightMove: StTime = 70.73371 EdTime = 71.0508
+Player RightMove: StTime = 71.58401 EdTime = 71.66743
+Player RunState: StTime = 71.10079 EdTime = 71.76746
+Player Jump: StTime = 48.65073 EdTime = 71.79984
+Player LeftMove: StTime = 72.14979 EdTime = 72.31747
+Player Jump: StTime = 48.65073 EdTime = 72.5173
+Player RightMove: StTime = 72.31747 EdTime = 72.9672
+Player LeftMove: StTime = 72.9672 EdTime = 73.09974
+Player Die = 73.16703 by gap
+Player Totaltime: StTime = 47.36421 EdTime = 73.16703
+Player had score 5000

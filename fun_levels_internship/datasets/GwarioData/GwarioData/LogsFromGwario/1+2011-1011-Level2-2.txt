@@ -1,0 +1,7 @@
+Player2 got cheese
+Player2 got pot
+Player2 got pineapple
+Player2 got breakfastpastry
+Player2 got porkchop
+Player had score 0
+Player2 had score 5000

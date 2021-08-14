@@ -1,0 +1,6 @@
+Player got chocolate
+Player got swimsuit
+Player got blanket
+Player got jacket
+Player got screwdriver
+Player had score 5000

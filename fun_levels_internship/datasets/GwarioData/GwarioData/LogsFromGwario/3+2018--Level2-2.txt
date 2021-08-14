@@ -1,0 +1,35 @@
+Player RightMove: StTime = 131.1245 EdTime = 131.6911
+Player RightMove: StTime = 133.2244 EdTime = 133.391
+Player RightMove: StTime = 136.2243 EdTime = 136.3569
+Player LeftMove: StTime = 143.0073 EdTime = 143.074
+Player BlockPowerDestroy:  time = 146.8739
+Player Jump: StTime = 146.7739 EdTime = 147.0572
+Player LittleState: StTime = -17 EdTime = 147.9738
+Player RightMove: StTime = 147.4238 EdTime = 148.2061
+Player RightMove: StTime = 149.5231 EdTime = 149.5899
+Player RightMove: StTime = 149.6065 EdTime = 149.6233
+Player RightMove: StTime = 149.8228 EdTime = 150.3728
+Player RunState: StTime = 149.4733 EdTime = 150.3903
+Player Jump: StTime = 146.7739 EdTime = 150.4401
+Player RightMove: StTime = 151.7403 EdTime = 152.457
+Player RightMove: StTime = 152.8569 EdTime = 153.1896
+Player RunState: StTime = 153.6235 EdTime = 154.04
+Player RightMove: StTime = 153.9902 EdTime = 154.1902
+Player RunState: StTime = 154.1235 EdTime = 154.24
+Player RunState: StTime = 154.4402 EdTime = 154.4736
+Player RightMove: StTime = 154.9733 EdTime = 155.4898
+Player RightMove: StTime = 155.5401 EdTime = 155.5735
+Player RunState: StTime = 155.5068 EdTime = 155.6897
+Player RightMove: StTime = 155.6727 EdTime = 156.056
+Player KoopaRedSquish:  time = 156.3564
+Player RunState: StTime = 156.4397 EdTime = 156.5235
+Player RightMove: StTime = 156.2063 EdTime = 156.9735
+Player got powerdrill
+Player Jump: StTime = 146.7739 EdTime = 157.3567
+Player RightMove: StTime = 157.0568 EdTime = 157.4068
+Player RunState: StTime = 157.7896 EdTime = 157.9563
+Player RightMove: StTime = 157.4565 EdTime = 158.3565
+Player RunState: StTime = 158.2232 EdTime = 158.4898
+Player Die = 158.573 by gap
+Player Totaltime: StTime = 129.5703 EdTime = 158.573
+Player had score 1000

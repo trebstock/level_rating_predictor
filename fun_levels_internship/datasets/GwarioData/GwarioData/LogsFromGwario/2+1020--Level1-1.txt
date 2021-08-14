@@ -1,0 +1,81 @@
+Player RightMove: StTime = 57.84174 EdTime = 58.14554
+Player RightMove: StTime = 58.31221 EdTime = 61.22864
+Player Jump: StTime = 60.66249 EdTime = 61.37865
+Player Jump: StTime = 60.66249 EdTime = 62.69519
+Player LeftMove: StTime = 61.76109 EdTime = 62.84513
+Player got chocolate
+Player Jump: StTime = 60.66249 EdTime = 64.06164
+Player Jump: StTime = 60.66249 EdTime = 65.8616
+Player RightMove: StTime = 62.87855 EdTime = 66.34483
+Player Jump: StTime = 60.66249 EdTime = 67.21167
+Player Jump: StTime = 60.66249 EdTime = 67.67806
+Player Jump: StTime = 60.66249 EdTime = 68.84455
+Player KoopaGreenSquish:  time = 70.37747
+Player RightMove: StTime = 66.61154 EdTime = 70.62749
+Player Jump: StTime = 60.66249 EdTime = 70.77695
+Player RightMove: StTime = 70.67754 EdTime = 71.11078
+Player Jump: StTime = 60.66249 EdTime = 73.22703
+Player RightMove: StTime = 71.47731 EdTime = 73.32707
+Player RightMove: StTime = 73.3435 EdTime = 73.39363
+Player Jump: StTime = 60.66249 EdTime = 73.56047
+Player Jump: StTime = 60.66249 EdTime = 73.99355
+Player Jump: StTime = 60.66249 EdTime = 74.59342
+Player Jump: StTime = 60.66249 EdTime = 75.42674
+Player Jump: StTime = 60.66249 EdTime = 76.22755
+Player LeftMove: StTime = 75.82658 EdTime = 77.99364
+Player LeftMove: StTime = 78.2437 EdTime = 78.5098
+Player Jump: StTime = 60.66249 EdTime = 79.77732
+Player Jump: StTime = 60.66249 EdTime = 81.92617
+Player RightMove: StTime = 79.14354 EdTime = 82.05975
+Player RightMove: StTime = 82.32642 EdTime = 82.44312
+Player Jump: StTime = 60.66249 EdTime = 82.77694
+Player RightMove: StTime = 82.5599 EdTime = 82.82698
+Player Jump: StTime = 60.66249 EdTime = 83.86031
+Player LeftMove: StTime = 83.21055 EdTime = 84.06027
+Player LeftMove: StTime = 84.80921 EdTime = 85.06018
+Player got blanket
+Player got spoon
+Player got onion
+Player got spatula
+Player LeftMove: StTime = 85.19366 EdTime = 86.84348
+Player Jump: StTime = 60.66249 EdTime = 90.22608
+Player RightMove: StTime = 86.84348 EdTime = 90.30891
+Player got cardboardbox
+Player got jacket
+Player RightMove: StTime = 90.47611 EdTime = 92.50871
+Player got orangejuice
+Player Jump: StTime = 60.66249 EdTime = 92.85951
+Player RightMove: StTime = 93.22621 EdTime = 93.39275
+Player RightMove: StTime = 93.84282 EdTime = 94.19284
+Player KoopaRedSquish:  time = 94.5427
+Player LeftMove: StTime = 94.47602 EdTime = 94.59274
+Player UnleashShell:  time = 94.87614
+Player Jump: StTime = 60.66249 EdTime = 95.27605
+Player RightMove: StTime = 96.14265 EdTime = 97.275
+Player Jump: StTime = 60.66249 EdTime = 97.2917
+Player RightMove: StTime = 97.40834 EdTime = 97.6085
+Player RightMove: StTime = 97.65831 EdTime = 98.25843
+Player GoombaSquish:  time = 98.59208
+Player Jump: StTime = 60.66249 EdTime = 98.95911
+Player KoopaRedSquish:  time = 100.4926
+Player Die = 100.8257 by RedKoopa
+Player Totaltime: StTime = 57.84174 EdTime = 100.8257
+Player Die = 100.8428 by RedKoopa
+Player Totaltime: StTime = 57.84174 EdTime = 100.8428
+Player Die = 100.8593 by RedKoopa
+Player Totaltime: StTime = 57.84174 EdTime = 100.8593
+Player Die = 100.876 by RedKoopa
+Player Totaltime: StTime = 57.84174 EdTime = 100.876
+Player Die = 100.8923 by RedKoopa
+Player Totaltime: StTime = 57.84174 EdTime = 100.8923
+Player Die = 100.9088 by RedKoopa
+Player Totaltime: StTime = 57.84174 EdTime = 100.9088
+Player Die = 100.9258 by RedKoopa
+Player Totaltime: StTime = 57.84174 EdTime = 100.9258
+Player Die = 100.9418 by RedKoopa
+Player Totaltime: StTime = 57.84174 EdTime = 100.9418
+Player Die = 100.9591 by RedKoopa
+Player Totaltime: StTime = 57.84174 EdTime = 100.9591
+Player Die = 100.9758 by RedKoopa
+Player Totaltime: StTime = 57.84174 EdTime = 100.9758
+Player had score 8000

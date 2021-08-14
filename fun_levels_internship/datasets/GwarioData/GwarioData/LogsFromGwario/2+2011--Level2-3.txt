@@ -1,0 +1,7 @@
+Player got wrench
+Player got baseballhat
+Player got underwear
+Player got tuna
+Player got cabbage
+Player had score 5000
+Win!

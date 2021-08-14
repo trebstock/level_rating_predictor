@@ -1,0 +1,16 @@
+Player RightMove: StTime = 173.5925 EdTime = 176.8754
+Player Jump: StTime = 176.3255 EdTime = 177.0089
+Player Jump: StTime = 176.3255 EdTime = 178.1754
+Player got chocolate
+Player LeftMove: StTime = 177.1587 EdTime = 178.3746
+Player RightMove: StTime = 178.3911 EdTime = 179.5755
+Player Jump: StTime = 176.3255 EdTime = 179.6581
+Player BlockPowerDestroy:  time = 180.2582
+Player RightMove: StTime = 179.6256 EdTime = 180.4417
+Player Jump: StTime = 176.3255 EdTime = 180.4417
+Player LeftMove: StTime = 180.5751 EdTime = 180.9258
+Player RightMove: StTime = 180.9422 EdTime = 181.7086
+Player Die = 182.2743 by 
+Player Totaltime: StTime = 173.2391 EdTime = 182.2743
+Player had score 1000
+Lost!

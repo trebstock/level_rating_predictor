@@ -1,0 +1,35 @@
+Player RunState: StTime = 13.12965 EdTime = 13.24636
+Player Jump: StTime = 13.46253 EdTime = 13.94609
+Player RightMove: StTime = 13.54626 EdTime = 14.22933
+Player Jump: StTime = 13.46253 EdTime = 14.52983
+Player BlockPowerDestroy:  time = 14.89601
+Player RightMove: StTime = 14.5961 EdTime = 15.04684
+Player Jump: StTime = 13.46253 EdTime = 15.07921
+Player LeftMove: StTime = 15.26343 EdTime = 15.31315
+Player LeftMove: StTime = 15.42943 EdTime = 15.51334
+Player LittleState: StTime = -17 EdTime = 16.26278
+Player RightMove: StTime = 15.53035 EdTime = 16.41337
+Player LeftMove: StTime = 16.41337 EdTime = 17.39669
+Player BlockPowerDestroy:  time = 17.44595
+Player Jump: StTime = 13.46253 EdTime = 17.59629
+Player RightMove: StTime = 17.71315 EdTime = 18.04697
+Player LeftMove: StTime = 18.48015 EdTime = 18.92924
+Player Jump: StTime = 13.46253 EdTime = 18.94582
+Player Jump: StTime = 13.46253 EdTime = 19.76324
+Player RightMove: StTime = 18.94582 EdTime = 20.14649
+Player RunState: StTime = 20.14649 EdTime = 20.21297
+Player Jump: StTime = 13.46253 EdTime = 22.97872
+Player Jump: StTime = 13.46253 EdTime = 24.71273
+Player RightMove: StTime = 20.24578 EdTime = 27.22902
+Player got measuringcup
+Player LeftMove: StTime = 27.42889 EdTime = 27.61233
+Player Jump: StTime = 13.46253 EdTime = 27.61233
+Player RightMove: StTime = 27.64558 EdTime = 30.49462
+Player Jump: StTime = 13.46253 EdTime = 30.52808
+Player RightMove: StTime = 30.66152 EdTime = 31.02817
+Player got pan
+Player Jump: StTime = 13.46253 EdTime = 31.61135
+Player RightMove: StTime = 31.4115 EdTime = 32.74456
+Player Die = 33.278 by gap
+Player Totaltime: StTime = 11.02653 EdTime = 33.278
+Player had score 2000

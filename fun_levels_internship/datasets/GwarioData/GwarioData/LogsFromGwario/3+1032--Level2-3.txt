@@ -1,0 +1,49 @@
+Player RightMove: StTime = 26.97631 EdTime = 27.07758
+Player Jump: StTime = 26.644 EdTime = 27.07758
+Player RightMove: StTime = 27.09407 EdTime = 27.14416
+Player Jump: StTime = 26.644 EdTime = 27.22755
+Player Jump: StTime = 26.644 EdTime = 28.02729
+Player RightMove: StTime = 27.76065 EdTime = 28.07652
+Player Jump: StTime = 26.644 EdTime = 29.00991
+Player RightMove: StTime = 28.67662 EdTime = 29.02622
+Player RightMove: StTime = 29.39347 EdTime = 29.52674
+Player RightMove: StTime = 29.87674 EdTime = 30.21058
+Player Duck: StTime = 33.47667 EdTime = 34.0095
+Player Duck: StTime = 34.45999 EdTime = 34.90981
+Player RunState: StTime = 37.79262 EdTime = 38.27591
+Player RightMove: StTime = 40.15892 EdTime = 41.87519
+Player RunState: StTime = 38.776 EdTime = 41.90849
+Player RunState: StTime = 42.42519 EdTime = 43.34266
+Player Jump: StTime = 26.644 EdTime = 44.24189
+Player RunState: StTime = 43.49264 EdTime = 44.37592
+Player RightMove: StTime = 43.54262 EdTime = 44.37592
+Player RunState: StTime = 44.94166 EdTime = 46.39221
+Player RunState: StTime = 47.32523 EdTime = 47.89172
+Player RightMove: StTime = 46.70851 EdTime = 47.89172
+Player Jump: StTime = 26.644 EdTime = 48.14244
+Player RightMove: StTime = 48.44174 EdTime = 48.50826
+Player RightMove: StTime = 49.54181 EdTime = 50.84229
+Player Jump: StTime = 26.644 EdTime = 67.8576
+Player RightMove: StTime = 69.05652 EdTime = 69.13987
+Player RunState: StTime = 68.89 EdTime = 69.65668
+Player Jump: StTime = 26.644 EdTime = 69.97401
+Player RightMove: StTime = 70.09078 EdTime = 70.52387
+Player RunState: StTime = 69.82367 EdTime = 71.12387
+Player Jump: StTime = 26.644 EdTime = 71.42401
+Player RightMove: StTime = 71.52374 EdTime = 71.74051
+Player got measuringcup
+Player RunState: StTime = 71.49046 EdTime = 72.20712
+Player Jump: StTime = 26.644 EdTime = 72.55711
+Player RunState: StTime = 72.62336 EdTime = 72.89027
+Player RightMove: StTime = 72.57375 EdTime = 72.95703
+Player got socks
+Player RunState: StTime = 73.0404 EdTime = 73.44028
+Player Jump: StTime = 26.644 EdTime = 73.80707
+Player RunState: StTime = 73.89055 EdTime = 74.29017
+Player RightMove: StTime = 73.80707 EdTime = 74.32358
+Player got scarf
+Player Jump: StTime = 26.644 EdTime = 75.09021
+Player RightMove: StTime = 75.29018 EdTime = 75.90592
+Player Die = 76.02267 by gap
+Player Totaltime: StTime = 23.15678 EdTime = 76.02267
+Player had score 3000

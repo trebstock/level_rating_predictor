@@ -1,0 +1,30 @@
+Player RightMove: StTime = 70.69342 EdTime = 70.99406
+Player LeftMove: StTime = 71.01067 EdTime = 71.66077
+Player BlockPowerDestroy:  time = 71.71069
+Player Jump: StTime = 71.6107 EdTime = 71.89413
+Player LittleState: StTime = -17 EdTime = 72.81064
+Player RightMove: StTime = 72.07735 EdTime = 73.15985
+Player Jump: StTime = 71.6107 EdTime = 73.61052
+Player RightMove: StTime = 73.25994 EdTime = 73.9433
+Player Jump: StTime = 71.6107 EdTime = 74.39389
+Player RightMove: StTime = 74.06048 EdTime = 74.54319
+Player got shrimp
+Player RightMove: StTime = 74.56026 EdTime = 74.75965
+Player Jump: StTime = 71.6107 EdTime = 75.07626
+Player LeftMove: StTime = 74.8597 EdTime = 75.14374
+Player RightMove: StTime = 75.2936 EdTime = 75.44312
+Player RightMove: StTime = 77.16064 EdTime = 77.47654
+Player got woodenspoon
+Player Jump: StTime = 71.6107 EdTime = 77.77678
+Player LeftMove: StTime = 77.56063 EdTime = 77.94389
+Player got jeans
+Player got spinach
+Player RightMove: StTime = 78.34283 EdTime = 79.82648
+Player Jump: StTime = 71.6107 EdTime = 80.1093
+Player Jump: StTime = 71.6107 EdTime = 80.7436
+Player RightMove: StTime = 80.04309 EdTime = 80.87675
+Player Jump: StTime = 71.6107 EdTime = 81.14353
+Player LeftMove: StTime = 81.09337 EdTime = 81.4433
+Player Die = 81.67668 by gap
+Player Totaltime: StTime = 70.10749 EdTime = 81.67668
+Player had score 4000

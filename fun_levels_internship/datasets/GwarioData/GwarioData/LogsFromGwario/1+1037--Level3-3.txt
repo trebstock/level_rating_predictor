@@ -1,0 +1,46 @@
+Player RightMove: StTime = 138.7971 EdTime = 138.9135
+Player BlockPowerDestroy:  time = 139.3142
+Player LeftMove: StTime = 138.9135 EdTime = 139.3803
+Player Jump: StTime = 139.2142 EdTime = 139.4972
+Player BlockPowerDestroy:  time = 139.7135
+Player LeftMove: StTime = 139.4643 EdTime = 139.7802
+Player Jump: StTime = 139.2142 EdTime = 139.8975
+Player RightMove: StTime = 139.7973 EdTime = 141.3807
+Player LeftMove: StTime = 141.3807 EdTime = 141.7974
+Player RightMove: StTime = 142.3474 EdTime = 142.6637
+Player Jump: StTime = 139.2142 EdTime = 143.2141
+Player RightMove: StTime = 142.8139 EdTime = 143.4968
+Player Jump: StTime = 139.2142 EdTime = 144.0465
+Player got shrimp
+Player RightMove: StTime = 143.664 EdTime = 144.2806
+Player Jump: StTime = 139.2142 EdTime = 144.7467
+Player LeftMove: StTime = 144.363 EdTime = 144.7631
+Player RightMove: StTime = 144.8973 EdTime = 145.5464
+Player got woodenspoon
+Player Jump: StTime = 139.2142 EdTime = 145.8964
+Player Jump: StTime = 139.2142 EdTime = 147.78
+Player RightMove: StTime = 145.9475 EdTime = 148.4139
+Player LeftMove: StTime = 148.4972 EdTime = 148.6638
+Player KoopaRedSquish:  time = 148.7972
+Player Jump: StTime = 139.2142 EdTime = 149.164
+Player got tshirt
+Player got pipes
+Player Jump: StTime = 139.2142 EdTime = 150.08
+Player RightMove: StTime = 148.7131 EdTime = 151.1303
+Player LeftMove: StTime = 151.1638 EdTime = 151.2638
+Player Jump: StTime = 139.2142 EdTime = 151.2799
+Player Die = 151.4127 by RedKoopa
+Player Totaltime: StTime = 138.1109 EdTime = 151.4127
+Player Die = 151.4301 by RedKoopa
+Player Totaltime: StTime = 138.1109 EdTime = 151.4301
+Player Die = 151.4462 by RedKoopa
+Player Totaltime: StTime = 138.1109 EdTime = 151.4462
+Player Die = 151.4637 by RedKoopa
+Player Totaltime: StTime = 138.1109 EdTime = 151.4637
+Player Die = 151.48 by RedKoopa
+Player Totaltime: StTime = 138.1109 EdTime = 151.48
+Player Die = 151.497 by RedKoopa
+Player Totaltime: StTime = 138.1109 EdTime = 151.497
+Player Die = 151.5139 by RedKoopa
+Player Totaltime: StTime = 138.1109 EdTime = 151.5139
+Player had score 4000

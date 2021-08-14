@@ -1,0 +1,83 @@
+Player RightMove: StTime = 11.59697 EdTime = 11.66403
+Player RunState: StTime = 11.81402 EdTime = 11.96401
+Player Jump: StTime = 12.17991 EdTime = 12.66402
+Player RightMove: StTime = 12.36402 EdTime = 13.03065
+Player Jump: StTime = 12.17991 EdTime = 13.33064
+Player BlockPowerDestroy:  time = 13.58066
+Player Jump: StTime = 12.17991 EdTime = 13.76404
+Player RightMove: StTime = 13.31401 EdTime = 13.88057
+Player BlockPowerDestroy:  time = 14.31367
+Player Jump: StTime = 12.17991 EdTime = 14.49734
+Player RightMove: StTime = 14.48067 EdTime = 14.64728
+Player LittleState: StTime = -17 EdTime = 14.83056
+Player RightMove: StTime = 14.68058 EdTime = 14.84721
+Player Jump: StTime = 12.17991 EdTime = 15.6139
+Player Jump: StTime = 12.17991 EdTime = 17.76377
+Player Jump: StTime = 12.17991 EdTime = 18.54648
+Player RightMove: StTime = 15.23055 EdTime = 20.03037
+Player Jump: StTime = 12.17991 EdTime = 20.26364
+Player RightMove: StTime = 20.79694 EdTime = 20.9303
+Player RightMove: StTime = 21.19699 EdTime = 21.61262
+Player got socks
+Player Jump: StTime = 12.17991 EdTime = 22.6962
+Player RightMove: StTime = 22.39647 EdTime = 22.87923
+Player got scarf
+Player Jump: StTime = 12.17991 EdTime = 23.32931
+Player Jump: StTime = 12.17991 EdTime = 24.31281
+Player RightMove: StTime = 23.39626 EdTime = 24.54627
+Player RightMove: StTime = 25.09641 EdTime = 25.47971
+Player got gardenhose
+Player Jump: StTime = 12.17991 EdTime = 25.7968
+Player LeftMove: StTime = 25.71301 EdTime = 25.87993
+Player RightMove: StTime = 25.99687 EdTime = 26.66344
+Player Jump: StTime = 12.17991 EdTime = 26.84693
+Player RightMove: StTime = 26.98009 EdTime = 27.1134
+Player BlockPowerDestroy:  time = 27.19649
+Player Jump: StTime = 12.17991 EdTime = 27.34577
+Player LeftMove: StTime = 27.41351 EdTime = 27.61321
+Player RightMove: StTime = 27.73008 EdTime = 28.02963
+Player Jump: StTime = 12.17991 EdTime = 28.34669
+Player RightMove: StTime = 28.11231 EdTime = 28.74671
+Player RunState: StTime = 16.16323 EdTime = 28.77965
+Player Jump: StTime = 12.17991 EdTime = 28.87941
+Player LeftMove: StTime = 28.89596 EdTime = 29.09671
+Player RunState: StTime = 29.09671 EdTime = 29.21326
+Player Firekill: EnemyType = RedKoopa time = 29.24586
+Player LeftMove: StTime = 29.36238 EdTime = 29.62978
+Player Jump: StTime = 12.17991 EdTime = 29.68013
+Player LeftMove: StTime = 29.68013 EdTime = 29.93002
+Player BlockPowerDestroy:  time = 30.01332
+Player Jump: StTime = 12.17991 EdTime = 30.16272
+Player RightMove: StTime = 30.09665 EdTime = 30.44669
+Player Jump: StTime = 12.17991 EdTime = 30.81336
+Player LeftMove: StTime = 30.48003 EdTime = 30.89629
+Player RightMove: StTime = 31.01326 EdTime = 31.27995
+Player RightMove: StTime = 31.37957 EdTime = 31.4798
+Player BlockPowerDestroy:  time = 32.07936
+Player Jump: StTime = 12.17991 EdTime = 32.12915
+Player LeftMove: StTime = 31.51328 EdTime = 32.34663
+Player RightMove: StTime = 32.42952 EdTime = 32.8794
+Player Jump: StTime = 12.17991 EdTime = 32.94566
+Player LeftMove: StTime = 33.2623 EdTime = 33.56273
+Player RightMove: StTime = 33.69616 EdTime = 33.81317
+Player Jump: StTime = 12.17991 EdTime = 33.91322
+Player RightMove: StTime = 33.8965 EdTime = 34.01222
+Player RunState: StTime = 31.27995 EdTime = 34.59578
+Player RightMove: StTime = 34.16312 EdTime = 34.62949
+Player LeftMove: StTime = 34.66272 EdTime = 35.0132
+Player BlockPowerDestroy:  time = 35.24635
+Player Jump: StTime = 12.17991 EdTime = 35.29637
+Player LeftMove: StTime = 35.22976 EdTime = 35.52979
+Player Jump: StTime = 12.17991 EdTime = 35.56308
+Player LeftMove: StTime = 35.72981 EdTime = 35.87914
+Player LeftMove: StTime = 35.94641 EdTime = 36.04598
+Player Jump: StTime = 12.17991 EdTime = 36.77895
+Player RightMove: StTime = 36.12928 EdTime = 36.94538
+Player Jump: StTime = 12.17991 EdTime = 37.41259
+Player Jump: StTime = 12.17991 EdTime = 38.87976
+Player RightMove: StTime = 37.02969 EdTime = 39.82949
+Player RightMove: StTime = 40.21286 EdTime = 40.27872
+Player RunState: StTime = 36.94538 EdTime = 40.29623
+Player Die = 40.37871 by gap
+Player Totaltime: StTime = 9.943163 EdTime = 40.37871
+Player had score 3000

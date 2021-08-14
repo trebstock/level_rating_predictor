@@ -1,0 +1,10 @@
+Player got jeans
+Player got spinach
+Player2 got woodenspoon
+Player got shrimp
+Player2 got sneakers
+Player2 got tshirt
+Player2 got pipes
+Player2 had score 4000
+Player had score 3000
+Lost!

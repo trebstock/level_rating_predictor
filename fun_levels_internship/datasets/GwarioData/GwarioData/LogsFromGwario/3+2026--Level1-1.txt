@@ -1,0 +1,243 @@
+Player RightMove: StTime = 9.947676 EdTime = 10.26465
+Player RunState: StTime = 10.19711 EdTime = 10.33045
+Player Jump: StTime = 10.06416 EdTime = 10.61479
+Player RightMove: StTime = 10.39761 EdTime = 10.8981
+Player Jump: StTime = 10.06416 EdTime = 11.36472
+Player RunState: StTime = 12.21424 EdTime = 12.98097
+Player RightMove: StTime = 11.11492 EdTime = 13.21422
+Player BlockPowerDestroy:  time = 13.28081
+Player Jump: StTime = 10.06416 EdTime = 13.4641
+Player RightMove: StTime = 13.54712 EdTime = 13.64742
+Player Jump: StTime = 10.06416 EdTime = 13.94736
+Player RightMove: StTime = 13.93025 EdTime = 14.78014
+Player LittleState: StTime = -17 EdTime = 14.84673
+Player Jump: StTime = 10.06416 EdTime = 15.41359
+Player LeftMove: StTime = 15.09724 EdTime = 15.61376
+Player BlockPowerDestroy:  time = 15.67999
+Player Jump: StTime = 10.06416 EdTime = 15.83006
+Player RightMove: StTime = 15.93022 EdTime = 16.06343
+Player RightMove: StTime = 16.12981 EdTime = 16.19656
+Player RightMove: StTime = 16.28037 EdTime = 16.36356
+Player Jump: StTime = 10.06416 EdTime = 17.34649
+Player LeftMove: StTime = 16.88013 EdTime = 17.3964
+Player RightMove: StTime = 17.9966 EdTime = 18.09655
+Player RunState: StTime = 18.33001 EdTime = 18.58006
+Player RightMove: StTime = 18.78033 EdTime = 18.92984
+Player RunState: StTime = 19.1135 EdTime = 20.1969
+Player LeftMove: StTime = 19.13002 EdTime = 20.21321
+Player Jump: StTime = 10.06416 EdTime = 20.29669
+Player RightMove: StTime = 20.24647 EdTime = 20.49685
+Player LeftMove: StTime = 20.89655 EdTime = 21.24664
+Player RunState: StTime = 20.87954 EdTime = 21.26336
+Player LeftMove: StTime = 21.3472 EdTime = 21.43038
+Player got swimsuit
+Player Jump: StTime = 10.06416 EdTime = 21.59718
+Player LeftMove: StTime = 21.56385 EdTime = 21.68062
+Player RunState: StTime = 21.97964 EdTime = 22.43043
+Player RightMove: StTime = 21.99715 EdTime = 22.53034
+Player Jump: StTime = 10.06416 EdTime = 22.74708
+Player RunState: StTime = 22.79708 EdTime = 23.2637
+Player Jump: StTime = 10.06416 EdTime = 23.74699
+Player RightMove: StTime = 22.81377 EdTime = 24.41324
+Player RunState: StTime = 24.41324 EdTime = 24.8804
+Player Jump: StTime = 10.06416 EdTime = 25.26311
+Player RightMove: StTime = 24.49672 EdTime = 25.41354
+Player RightMove: StTime = 25.51365 EdTime = 25.83026
+Player RightMove: StTime = 25.86362 EdTime = 25.89677
+Player RunState: StTime = 25.83026 EdTime = 26.39693
+Player RightMove: StTime = 26.21364 EdTime = 26.41286
+Player Jump: StTime = 10.06416 EdTime = 26.51354
+Player Jump: StTime = 10.06416 EdTime = 27.49682
+Player RightMove: StTime = 26.76354 EdTime = 27.5466
+Player BlockEmptyDestroy:  time = 27.88015
+Player Jump: StTime = 10.06416 EdTime = 28.08016
+Player Firekill: EnemyType =  time = 28.49589
+Player RunState: StTime = 28.34677 EdTime = 28.53003
+Player RightMove: StTime = 28.86335 EdTime = 29.1466
+Player RunState: StTime = 29.1466 EdTime = 29.64588
+Player RightMove: StTime = 29.24571 EdTime = 29.81272
+Player RightMove: StTime = 30.06278 EdTime = 30.24615
+Player Firekill: EnemyType = GreenKoopa time = 30.24615
+Player LeftMove: StTime = 30.77913 EdTime = 30.97991
+Player RightMove: StTime = 31.0132 EdTime = 31.06253
+Player RightMove: StTime = 31.09651 EdTime = 32.32943
+Player RunState: StTime = 31.06253 EdTime = 32.36281
+Player Jump: StTime = 10.06416 EdTime = 32.42943
+Player RightMove: StTime = 32.41274 EdTime = 32.46193
+Player RightMove: StTime = 32.56258 EdTime = 34.52879
+Player RightMove: StTime = 34.59535 EdTime = 34.6286
+Player RunState: StTime = 34.52879 EdTime = 34.72895
+Player BlockEmptyDestroy:  time = 34.77896
+Player RightMove: StTime = 34.77896 EdTime = 34.86204
+Player Jump: StTime = 10.06416 EdTime = 34.92887
+Player RightMove: StTime = 34.94556 EdTime = 34.96227
+Player RightMove: StTime = 34.97899 EdTime = 34.99562
+Player RightMove: StTime = 35.01182 EdTime = 35.02898
+Player RightMove: StTime = 35.04571 EdTime = 35.06212
+Player RightMove: StTime = 35.07901 EdTime = 35.09532
+Player RightMove: StTime = 35.11224 EdTime = 35.12875
+Player BlockEmptyDestroy:  time = 35.179
+Player RightMove: StTime = 35.179 EdTime = 35.26186
+Player Jump: StTime = 10.06416 EdTime = 35.32848
+Player RightMove: StTime = 35.44564 EdTime = 35.46178
+Player RightMove: StTime = 35.47876 EdTime = 35.49533
+Player RunState: StTime = 35.32848 EdTime = 35.5121
+Player RightMove: StTime = 35.5121 EdTime = 35.529
+Player RightMove: StTime = 35.54542 EdTime = 35.56192
+Player RightMove: StTime = 35.5787 EdTime = 35.59538
+Player RightMove: StTime = 35.66219 EdTime = 35.6785
+Player RightMove: StTime = 35.91222 EdTime = 36.22875
+Player Jump: StTime = 10.06416 EdTime = 36.29534
+Player Jump: StTime = 10.06416 EdTime = 36.54546
+Player RightMove: StTime = 36.31212 EdTime = 36.64545
+Player RightMove: StTime = 36.66215 EdTime = 36.67859
+Player RightMove: StTime = 36.69547 EdTime = 36.71185
+Player RightMove: StTime = 36.72879 EdTime = 36.74545
+Player RightMove: StTime = 36.81198 EdTime = 37.012
+Player Jump: StTime = 10.06416 EdTime = 37.2617
+Player LeftMove: StTime = 37.22829 EdTime = 37.51188
+Player Jump: StTime = 10.06416 EdTime = 38.04501
+Player LeftMove: StTime = 37.66168 EdTime = 38.36169
+Player LeftMove: StTime = 38.64509 EdTime = 38.79501
+Player got blanket
+Player got spoon
+Player LeftMove: StTime = 40.39581 EdTime = 42.01219
+Player got spatula
+Player Jump: StTime = 10.06416 EdTime = 42.06224
+Player Jump: StTime = 10.06416 EdTime = 43.12881
+Player RightMove: StTime = 42.19527 EdTime = 43.1947
+Player Jump: StTime = 10.06416 EdTime = 44.71169
+Player got cardboardbox
+Player RightMove: StTime = 43.27819 EdTime = 45.07877
+Player RunState: StTime = 43.1947 EdTime = 45.24529
+Player Firekill: EnemyType = RedKoopa time = 45.52875
+Player RightMove: StTime = 46.84517 EdTime = 46.86153
+Player got jacket
+Player RightMove: StTime = 46.91103 EdTime = 48.24538
+Player got screwdriver
+Player Jump: StTime = 10.06416 EdTime = 48.26192
+Player RightMove: StTime = 48.26192 EdTime = 48.76101
+Player RunState: StTime = 46.86153 EdTime = 48.7785
+Player Jump: StTime = 10.06416 EdTime = 48.89516
+Player LeftMove: StTime = 48.79498 EdTime = 49.04489
+Player RunState: StTime = 49.04489 EdTime = 49.16174
+Player Firekill: EnemyType = RedKoopa time = 49.27772
+Player RunState: StTime = 49.61093 EdTime = 50.49488
+Player LeftMove: StTime = 49.51066 EdTime = 50.49488
+Player RightMove: StTime = 50.49488 EdTime = 50.5617
+Player Jump: StTime = 10.06416 EdTime = 50.71175
+Player RightMove: StTime = 50.67839 EdTime = 50.82815
+Player RunState: StTime = 50.82815 EdTime = 50.94489
+Player RightMove: StTime = 50.91146 EdTime = 50.96166
+Player Firekill: EnemyType = RedKoopa time = 51.22829
+Player RightMove: StTime = 51.27831 EdTime = 51.46133
+Player BlockPowerDestroy:  time = 51.76151
+Player Jump: StTime = 10.06416 EdTime = 51.91175
+Player RightMove: StTime = 51.94447 EdTime = 52.14454
+Player BlockPowerDestroy:  time = 52.24474
+Player Jump: StTime = 10.06416 EdTime = 52.39476
+Player BlockPowerDestroy:  time = 52.76136
+Player LeftMove: StTime = 52.41125 EdTime = 52.91119
+Player Jump: StTime = 10.06416 EdTime = 52.91119
+Player RightMove: StTime = 53.0778 EdTime = 53.46121
+Player RunState: StTime = 53.46121 EdTime = 53.54434
+Player RightMove: StTime = 53.56094 EdTime = 54.06111
+Player RunState: StTime = 54.1109 EdTime = 54.17752
+Player Firekill: EnemyType = RedKoopa time = 54.26081
+Player RunState: StTime = 54.377 EdTime = 54.44421
+Player RightMove: StTime = 54.377 EdTime = 54.49381
+Player RightMove: StTime = 54.77765 EdTime = 54.79412
+Player RunState: StTime = 54.72725 EdTime = 54.81079
+Player Firekill: EnemyType = Goomba time = 54.84397
+Player BlockPowerDestroy:  time = 55.29411
+Player Jump: StTime = 10.06416 EdTime = 55.44417
+Player RightMove: StTime = 55.41059 EdTime = 55.66088
+Player BlockPowerDestroy:  time = 55.66088
+Player Jump: StTime = 10.06416 EdTime = 55.81039
+Player RightMove: StTime = 55.82695 EdTime = 56.11058
+Player Firekill: EnemyType = Goomba time = 57.61041
+Player RightMove: StTime = 56.21062 EdTime = 57.9936
+Player Jump: StTime = 10.06416 EdTime = 58.04337
+Player RightMove: StTime = 58.09347 EdTime = 58.77667
+Player KoopaRedSquish:  time = 58.96046
+Player Jump: StTime = 10.06416 EdTime = 59.3436
+Player RightMove: StTime = 58.91012 EdTime = 59.71029
+Player RightMove: StTime = 59.72709 EdTime = 59.7433
+Player RightMove: StTime = 59.76038 EdTime = 59.77712
+Player RightMove: StTime = 59.79342 EdTime = 59.81013
+Player RightMove: StTime = 59.82698 EdTime = 59.84369
+Player RightMove: StTime = 59.86019 EdTime = 59.87668
+Player RightMove: StTime = 60.17688 EdTime = 60.31005
+Player RunState: StTime = 56.11058 EdTime = 60.34349
+Player Jump: StTime = 10.06416 EdTime = 60.44427
+Player RightMove: StTime = 61.02777 EdTime = 61.19355
+Player RunState: StTime = 60.96005 EdTime = 61.2603
+Player LeftMove: StTime = 61.34377 EdTime = 61.47685
+Player Jump: StTime = 10.06416 EdTime = 61.56069
+Player RightMove: StTime = 61.97747 EdTime = 62.06072
+Player LeftMove: StTime = 62.34325 EdTime = 62.44407
+Player RightMove: StTime = 62.92743 EdTime = 62.99392
+Player LeftMove: StTime = 63.16069 EdTime = 63.39381
+Player RightMove: StTime = 64.02721 EdTime = 64.09349
+Player Firekill: EnemyType =  time = 64.32745
+Player RunState: StTime = 64.24316 EdTime = 64.34397
+Player RunState: StTime = 64.46064 EdTime = 64.54342
+Player RunState: StTime = 64.76035 EdTime = 64.84309
+Player RightMove: StTime = 65.29327 EdTime = 65.31056
+Player RightMove: StTime = 65.36058 EdTime = 65.67653
+Player RightMove: StTime = 65.71038 EdTime = 65.79374
+Player RunState: StTime = 65.31056 EdTime = 65.8438
+Player Jump: StTime = 10.06416 EdTime = 65.94392
+Player RunState: StTime = 66.19276 EdTime = 66.59382
+Player Jump: StTime = 10.06416 EdTime = 66.97707
+Player got dress
+Player RightMove: StTime = 66.24384 EdTime = 67.12619
+Player RunState: StTime = 67.12619 EdTime = 67.44273
+Player Jump: StTime = 10.06416 EdTime = 67.99741
+Player Firekill: EnemyType =  time = 68.52698
+Player RunState: StTime = 68.19261 EdTime = 68.61038
+Player RightMove: StTime = 67.2104 EdTime = 68.71032
+Player RightMove: StTime = 68.82681 EdTime = 69.19361
+Player RunState: StTime = 68.8761 EdTime = 69.39361
+Player RightMove: StTime = 69.25951 EdTime = 69.40935
+Player Jump: StTime = 10.06416 EdTime = 69.52596
+Player RightMove: StTime = 69.50935 EdTime = 69.69261
+Player LeftMove: StTime = 70.12646 EdTime = 70.19318
+Player RightMove: StTime = 70.25988 EdTime = 70.27651
+Player RunState: StTime = 70.27651 EdTime = 70.57686
+Player RightMove: StTime = 70.32659 EdTime = 70.89357
+Player Jump: StTime = 10.06416 EdTime = 70.89357
+Player Jump: StTime = 10.06416 EdTime = 70.90962
+Player Jump: StTime = 10.06416 EdTime = 70.97693
+Player Jump: StTime = 10.06416 EdTime = 71.06014
+Player RunState: StTime = 71.07665 EdTime = 71.42653
+Player Jump: StTime = 10.06416 EdTime = 71.64346
+Player RightMove: StTime = 71.29337 EdTime = 71.65976
+Player RunState: StTime = 71.65976 EdTime = 72.67631
+Player Jump: StTime = 10.06416 EdTime = 72.82661
+Player RightMove: StTime = 71.76003 EdTime = 72.94232
+Player RunState: StTime = 72.94232 EdTime = 73.69254
+Player Jump: StTime = 10.06416 EdTime = 73.84214
+Player RunState: StTime = 73.89287 EdTime = 74.35929
+Player RightMove: StTime = 73.02634 EdTime = 74.55942
+Player GoombaSquish:  time = 74.55942
+Player RunState: StTime = 74.55942 EdTime = 74.85872
+Player RightMove: StTime = 74.6591 EdTime = 74.92599
+Player Jump: StTime = 10.06416 EdTime = 74.95926
+Player RightMove: StTime = 74.97549 EdTime = 74.99255
+Player RightMove: StTime = 75.009 EdTime = 75.02596
+Player RightMove: StTime = 75.04225 EdTime = 75.05889
+Player RunState: StTime = 75.07581 EdTime = 75.49217
+Player Jump: StTime = 10.06416 EdTime = 75.67564
+Player RightMove: StTime = 75.15881 EdTime = 75.72543
+Player RunState: StTime = 75.72543 EdTime = 76.20892
+Player Jump: StTime = 10.06416 EdTime = 76.27551
+Player RightMove: StTime = 75.79258 EdTime = 76.34201
+Player RunState: StTime = 76.35895 EdTime = 76.54235
+Player RightMove: StTime = 76.44236 EdTime = 76.54235
+Player RightMove: StTime = 76.82578 EdTime = 76.84218
+Player Jump: StTime = 10.06416 EdTime = 76.84218
+Player Jump: StTime = 10.06416 EdTime = 78.15925
+Player had score 8000
+Player Totaltime: StTime = 8.227967 EdTime = 78.20855
+Win!

@@ -1,0 +1,50 @@
+Player RightMove: StTime = 40.89489 EdTime = 41.07858
+Player RightMove: StTime = 41.86098 EdTime = 42.14453
+Player BlockPowerDestroy:  time = 42.42847
+Player Jump: StTime = 42.32779 EdTime = 42.61082
+Player RightMove: StTime = 42.69423 EdTime = 42.99423
+Player Jump: StTime = 42.32779 EdTime = 43.46089
+Player LittleState: StTime = -17 EdTime = 44.11176
+Player RightMove: StTime = 43.49408 EdTime = 44.36097
+Player RightMove: StTime = 44.96114 EdTime = 45.24482
+Player Jump: StTime = 42.32779 EdTime = 45.39412
+Player LeftMove: StTime = 45.56166 EdTime = 45.64523
+Player RightMove: StTime = 46.69503 EdTime = 46.82826
+Player RightMove: StTime = 47.09502 EdTime = 47.52818
+Player Jump: StTime = 42.32779 EdTime = 47.66161
+Player Jump: StTime = 42.32779 EdTime = 50.22777
+Player RightMove: StTime = 47.8116 EdTime = 51.01146
+Player Jump: StTime = 42.32779 EdTime = 51.17813
+Player Jump: StTime = 42.32779 EdTime = 51.82755
+Player LeftMove: StTime = 51.67699 EdTime = 52.09432
+Player LeftMove: StTime = 52.57742 EdTime = 52.69442
+Player RightMove: StTime = 52.94447 EdTime = 53.09438
+Player KoopaRedSquish:  time = 53.77805
+Player UnleashShell:  time = 54.1114
+Player Jump: StTime = 42.32779 EdTime = 54.4947
+Player RightMove: StTime = 54.62807 EdTime = 55.34409
+Player RightMove: StTime = 55.6605 EdTime = 56.01122
+Player LeftMove: StTime = 56.22735 EdTime = 56.42687
+Player LeftMove: StTime = 56.69456 EdTime = 56.84453
+Player RightMove: StTime = 57.07801 EdTime = 57.46082
+Player Die = 57.86118 by ShellRed
+Player Totaltime: StTime = 39.12544 EdTime = 57.86118
+Player Die = 57.87777 by ShellRed
+Player Totaltime: StTime = 39.12544 EdTime = 57.87777
+Player Die = 57.89367 by ShellRed
+Player Totaltime: StTime = 39.12544 EdTime = 57.89367
+Player Die = 57.91114 by ShellRed
+Player Totaltime: StTime = 39.12544 EdTime = 57.91114
+Player Die = 57.92705 by ShellRed
+Player Totaltime: StTime = 39.12544 EdTime = 57.92705
+Player Die = 58.09455 by ShellRed
+Player Totaltime: StTime = 39.12544 EdTime = 58.09455
+Player Die = 58.27781 by ShellRed
+Player Totaltime: StTime = 39.12544 EdTime = 58.27781
+Player Die = 58.29393 by ShellRed
+Player Totaltime: StTime = 39.12544 EdTime = 58.29393
+Player Die = 58.3111 by ShellRed
+Player Totaltime: StTime = 39.12544 EdTime = 58.3111
+Player Die = 58.32751 by ShellRed
+Player Totaltime: StTime = 39.12544 EdTime = 58.32751
+Player had score 0

@@ -1,0 +1,8 @@
+Player2 got cheese
+Player2 got pineapple
+Player got pot
+Player2 got breakfastpastry
+Player2 got porkchop
+Player had score 1000
+Player2 had score 4000
+Lost!

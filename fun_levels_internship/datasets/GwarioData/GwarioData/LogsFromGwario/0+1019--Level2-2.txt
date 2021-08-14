@@ -1,0 +1,127 @@
+Player RunState: StTime = 311.394 EdTime = 311.5606
+Player RightMove: StTime = 310.8608 EdTime = 311.7272
+Player BlockPowerDestroy:  time = 311.7272
+Player Jump: StTime = 311.6271 EdTime = 311.9106
+Player LeftMove: StTime = 311.9767 EdTime = 312.3274
+Player BlockPowerDestroy:  time = 312.3606
+Player RunState: StTime = 312.3768 EdTime = 312.5269
+Player Jump: StTime = 311.6271 EdTime = 312.5437
+Player LittleState: StTime = -17 EdTime = 313.2599
+Player RightMove: StTime = 312.5437 EdTime = 313.4605
+Player RunState: StTime = 313.9433 EdTime = 314.4107
+Player Jump: StTime = 311.6271 EdTime = 314.5941
+Player RunState: StTime = 314.694 EdTime = 314.86
+Player Jump: StTime = 311.6271 EdTime = 315.6605
+Player RunState: StTime = 316.1106 EdTime = 316.893
+Player Jump: StTime = 311.6271 EdTime = 317.0437
+Player RightMove: StTime = 314.0765 EdTime = 317.077
+Player RightMove: StTime = 317.2937 EdTime = 317.3269
+Player RightMove: StTime = 317.8432 EdTime = 318.5771
+Player got cheese
+Player RunState: StTime = 317.8432 EdTime = 318.6104
+Player Jump: StTime = 311.6271 EdTime = 318.7597
+Player RunState: StTime = 319.06 EdTime = 319.2267
+Player RightMove: StTime = 319.1435 EdTime = 319.3436
+Player KoopaRedSquish:  time = 319.7097
+Player UnleashShell:  time = 320.0435
+Player Jump: StTime = 311.6271 EdTime = 320.4437
+Player RightMove: StTime = 320.4594 EdTime = 321.5098
+Player RunState: StTime = 320.8096 EdTime = 321.5266
+Player Jump: StTime = 311.6271 EdTime = 321.6436
+Player RunState: StTime = 321.8429 EdTime = 322.6436
+Player Jump: StTime = 311.6271 EdTime = 322.7265
+Player Jump: StTime = 311.6271 EdTime = 322.9598
+Player RunState: StTime = 323.3094 EdTime = 323.6769
+Player RightMove: StTime = 321.7926 EdTime = 323.6769
+Player Jump: StTime = 311.6271 EdTime = 324.0435
+Player got pot
+Player got pineapple
+Player RunState: StTime = 324.7935 EdTime = 325.1763
+Player RightMove: StTime = 324.1265 EdTime = 325.1763
+Player KoopaRedSquish:  time = 325.4934
+Player RightMove: StTime = 325.3764 EdTime = 325.6092
+Player UnleashShell:  time = 325.8098
+Player Jump: StTime = 311.6271 EdTime = 326.2101
+Player RightMove: StTime = 326.1432 EdTime = 327.4265
+Player RunState: StTime = 326.5934 EdTime = 327.4431
+Player Jump: StTime = 311.6271 EdTime = 327.5092
+Player RunState: StTime = 327.6266 EdTime = 328.3928
+Player Jump: StTime = 311.6271 EdTime = 328.4757
+Player Jump: StTime = 311.6271 EdTime = 329.5424
+Player RunState: StTime = 328.5757 EdTime = 329.5761
+Player RightMove: StTime = 327.5435 EdTime = 329.5761
+Player RunState: StTime = 329.7094 EdTime = 330.5099
+Player Jump: StTime = 311.6271 EdTime = 330.5926
+Player RunState: StTime = 330.6756 EdTime = 331.1764
+Player got breakfastpastry
+Player GoombaSquish:  time = 331.5934
+Player RightMove: StTime = 329.6599 EdTime = 331.7766
+Player Jump: StTime = 311.6271 EdTime = 331.9762
+Player RightMove: StTime = 331.9426 EdTime = 332.0925
+Player got porkchop
+Player RunState: StTime = 332.2099 EdTime = 332.4255
+Player GoombaSquish:  time = 332.7763
+Player Jump: StTime = 311.6271 EdTime = 333.1591
+Player RunState: StTime = 333.3097 EdTime = 333.5092
+Player RightMove: StTime = 332.1433 EdTime = 333.5933
+Player Jump: StTime = 311.6271 EdTime = 333.8263
+Player RunState: StTime = 333.9597 EdTime = 334.3928
+Player Jump: StTime = 311.6271 EdTime = 334.7587
+Player RunState: StTime = 334.793 EdTime = 335.043
+Player KoopaRedSquish:  time = 335.6931
+Player RightMove: StTime = 333.9098 EdTime = 335.7259
+Player RightMove: StTime = 335.8589 EdTime = 336.043
+Player Jump: StTime = 311.6271 EdTime = 336.076
+Player RightMove: StTime = 336.2588 EdTime = 337.1931
+Player RunState: StTime = 336.4421 EdTime = 337.2097
+Player got necklace
+Player KoopaRedSquish:  time = 337.3098
+Player UnleashShell:  time = 337.6429
+Player Jump: StTime = 311.6271 EdTime = 338.043
+Player got sweater
+Player RunState: StTime = 338.2092 EdTime = 338.4754
+Player RightMove: StTime = 337.7597 EdTime = 338.4929
+Player Jump: StTime = 311.6271 EdTime = 338.8762
+Player RightMove: StTime = 338.7922 EdTime = 341.759
+Player RunState: StTime = 341.6258 EdTime = 341.7761
+Player RightMove: StTime = 341.7927 EdTime = 342.1428
+Player Jump: StTime = 311.6271 EdTime = 342.4428
+Player RunState: StTime = 343.1928 EdTime = 343.9427
+Player RightMove: StTime = 342.275 EdTime = 343.959
+Player Jump: StTime = 311.6271 EdTime = 344.1256
+Player RunState: StTime = 344.392 EdTime = 344.7594
+Player RightMove: StTime = 344.476 EdTime = 344.8416
+Player Jump: StTime = 311.6271 EdTime = 345.0927
+Player Jump: StTime = 311.6271 EdTime = 346.0922
+Player RunState: StTime = 345.1593 EdTime = 346.2759
+Player RightMove: StTime = 345.0927 EdTime = 346.2918
+Player Jump: StTime = 311.6271 EdTime = 346.2918
+Player RunState: StTime = 346.7592 EdTime = 347.1259
+Player RightMove: StTime = 346.8089 EdTime = 347.1259
+Player Jump: StTime = 311.6271 EdTime = 347.4759
+Player RunState: StTime = 347.8425 EdTime = 348.4918
+Player RightMove: StTime = 347.5255 EdTime = 348.5092
+Player Jump: StTime = 311.6271 EdTime = 348.5248
+Player RunState: StTime = 348.5926 EdTime = 349.5248
+Player RightMove: StTime = 348.5926 EdTime = 349.5425
+Player Jump: StTime = 311.6271 EdTime = 349.6089
+Player RightMove: StTime = 351.0092 EdTime = 351.5424
+Player LeftMove: StTime = 351.9749 EdTime = 352.4252
+Player RunState: StTime = 352.9748 EdTime = 353.2755
+Player RightMove: StTime = 353.1252 EdTime = 353.2919
+Player Die = 353.3582 by RedKoopa
+Player Totaltime: StTime = 310.4404 EdTime = 353.3582
+Player Die = 353.3755 by RedKoopa
+Player Totaltime: StTime = 310.4404 EdTime = 353.3755
+Player Die = 353.3916 by RedKoopa
+Player Totaltime: StTime = 310.4404 EdTime = 353.3916
+Player Die = 353.409 by RedKoopa
+Player Totaltime: StTime = 310.4404 EdTime = 353.409
+Player Die = 353.4253 by RedKoopa
+Player Totaltime: StTime = 310.4404 EdTime = 353.4253
+Player Die = 353.4424 by RedKoopa
+Player Totaltime: StTime = 310.4404 EdTime = 353.4424
+Player Die = 353.459 by RedKoopa
+Player Totaltime: StTime = 310.4404 EdTime = 353.459
+Player had score 7000
+Lost!

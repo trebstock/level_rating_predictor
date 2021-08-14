@@ -1,0 +1,5 @@
+Player got shrimp
+Player got jeans
+Player got sneakers
+Player got tshirt
+Player had score 4000

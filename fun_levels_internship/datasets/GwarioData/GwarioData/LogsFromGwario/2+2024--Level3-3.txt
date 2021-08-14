@@ -1,0 +1,13 @@
+Player BlockPowerDestroy:  time = 37.84827
+Player Jump: StTime = 37.74828 EdTime = 38.0308
+Player LeftMove: StTime = 37.58167 EdTime = 38.11507
+Player RightMove: StTime = 38.31503 EdTime = 38.49826
+Player BlockPowerDestroy:  time = 39.36498
+Player Jump: StTime = 37.74828 EdTime = 39.54726
+Player LittleState: StTime = -17 EdTime = 40.33142
+Player RightMove: StTime = 39.76414 EdTime = 40.91478
+Player Jump: StTime = 37.74828 EdTime = 41.08141
+Player LeftMove: StTime = 40.96494 EdTime = 41.24816
+Player Die = 42.0813 by gap
+Player Totaltime: StTime = 36.86163 EdTime = 42.0813
+Player had score 0

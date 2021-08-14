@@ -1,0 +1,7 @@
+Player got chocolate
+Player got spatula
+Player got orangejuice
+Player got piecrust
+Player2 had score 0
+Player had score 4000
+Win!

@@ -1,0 +1,53 @@
+Player LeftMove: StTime = 35.54975 EdTime = 35.7321
+Player RightMove: StTime = 36.03288 EdTime = 36.29982
+Player LeftMove: StTime = 36.53316 EdTime = 36.88309
+Player BlockPowerDestroy:  time = 37.08308
+Player Jump: StTime = 36.98308 EdTime = 37.26632
+Player RightMove: StTime = 37.51636 EdTime = 37.73299
+Player BlockPowerDestroy:  time = 38.08302
+Player Jump: StTime = 36.98308 EdTime = 38.26634
+Player RightMove: StTime = 38.04889 EdTime = 38.39968
+Player LittleState: StTime = -17 EdTime = 38.41639
+Player LeftMove: StTime = 38.94969 EdTime = 39.01633
+Player Jump: StTime = 36.98308 EdTime = 39.84864
+Player RightMove: StTime = 39.53216 EdTime = 39.91567
+Player Jump: StTime = 36.98308 EdTime = 41.06627
+Player LeftMove: StTime = 41.06627 EdTime = 41.78283
+Player RightMove: StTime = 42.01619 EdTime = 42.96615
+Player Jump: StTime = 36.98308 EdTime = 43.43273
+Player RightMove: StTime = 43.01617 EdTime = 43.44938
+Player RightMove: StTime = 44.38275 EdTime = 44.63194
+Player RightMove: StTime = 44.84911 EdTime = 45.19945
+Player Jump: StTime = 36.98308 EdTime = 45.24941
+Player LeftMove: StTime = 45.48198 EdTime = 45.73174
+Player RightMove: StTime = 46.23274 EdTime = 46.6327
+Player got shrimp
+Player Jump: StTime = 36.98308 EdTime = 47.16534
+Player RightMove: StTime = 47.29856 EdTime = 47.61592
+Player LeftMove: StTime = 48.23256 EdTime = 48.31591
+Player KoopaRedSquish:  time = 49.5825
+Player UnleashShell:  time = 49.91582
+Player Jump: StTime = 36.98308 EdTime = 50.29834
+Player RightMove: StTime = 50.76534 EdTime = 50.96497
+Player got woodenspoon
+Player Jump: StTime = 36.98308 EdTime = 51.81577
+Player RightMove: StTime = 51.84877 EdTime = 52.51512
+Player RightMove: StTime = 53.132 EdTime = 53.24898
+Player got spinach
+Player Jump: StTime = 36.98308 EdTime = 53.93134
+Player RightMove: StTime = 54.06532 EdTime = 54.28175
+Player RightMove: StTime = 54.91526 EdTime = 55.449
+Player Jump: StTime = 36.98308 EdTime = 55.84897
+Player RightMove: StTime = 56.88221 EdTime = 57.48222
+Player Jump: StTime = 36.98308 EdTime = 57.94879
+Player RightMove: StTime = 58.26545 EdTime = 58.53218
+Player LeftMove: StTime = 59.03214 EdTime = 59.41547
+Player RightMove: StTime = 59.73207 EdTime = 59.91538
+Player KoopaRedSquish:  time = 62.1313
+Player UnleashShell:  time = 62.46533
+Player LeftMove: StTime = 62.36533 EdTime = 62.78199
+Player Jump: StTime = 36.98308 EdTime = 62.84863
+Player LeftMove: StTime = 62.79863 EdTime = 63.1977
+Player Die = 63.34782 by gap
+Player Totaltime: StTime = 35.41251 EdTime = 63.34782
+Player had score 3000

@@ -1,0 +1,5 @@
+Player got blanket
+Player got spoon
+Player got onion
+Player got spatula
+Player had score 4000

@@ -1,0 +1,8 @@
+Player got jeans
+Player got woodenspoon
+Player got sneakers
+Player got tshirt
+Player got hammer
+Player got suitcase
+Player had score 6000
+Win!

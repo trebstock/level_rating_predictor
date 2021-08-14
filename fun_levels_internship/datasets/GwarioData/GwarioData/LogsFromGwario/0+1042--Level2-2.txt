@@ -1,0 +1,54 @@
+Player RightMove: StTime = 133.7519 EdTime = 134.3351
+Player BlockPowerDestroy:  time = 134.3852
+Player Jump: StTime = 134.2853 EdTime = 134.568
+Player RightMove: StTime = 134.6185 EdTime = 134.7677
+Player RightMove: StTime = 134.8018 EdTime = 134.9851
+Player Jump: StTime = 134.2853 EdTime = 135.0185
+Player RightMove: StTime = 135.1347 EdTime = 135.1679
+Player BlockPowerDestroy:  time = 135.2685
+Player Jump: StTime = 134.2853 EdTime = 135.4514
+Player LittleState: StTime = -17 EdTime = 136.0679
+Player RightMove: StTime = 135.6185 EdTime = 136.1178
+Player RightMove: StTime = 136.6684 EdTime = 136.9017
+Player Jump: StTime = 134.2853 EdTime = 137.6184
+Player RightMove: StTime = 137.0513 EdTime = 137.885
+Player GoombaSquish:  time = 137.9185
+Player Jump: StTime = 134.2853 EdTime = 138.3185
+Player RightMove: StTime = 138.2017 EdTime = 139.4677
+Player Jump: StTime = 134.2853 EdTime = 139.685
+Player Jump: StTime = 134.2853 EdTime = 140.7177
+Player got cheese
+Player RightMove: StTime = 139.8017 EdTime = 142.4507
+Player KoopaRedSquish:  time = 142.8013
+Player UnleashShell:  time = 143.1342
+Player Jump: StTime = 134.2853 EdTime = 143.5176
+Player RightMove: StTime = 143.6676 EdTime = 143.7681
+Player RightMove: StTime = 143.8341 EdTime = 143.9176
+Player Jump: StTime = 134.2853 EdTime = 145.8347
+Player RightMove: StTime = 144.5346 EdTime = 146.0013
+Player RightMove: StTime = 146.3847 EdTime = 146.651
+Player Jump: StTime = 134.2853 EdTime = 146.868
+Player Jump: StTime = 134.2853 EdTime = 148.5513
+Player Jump: StTime = 134.2853 EdTime = 148.9012
+Player RightMove: StTime = 147.4513 EdTime = 149.0509
+Player got pineapple
+Player RightMove: StTime = 149.3012 EdTime = 151.3677
+Player Jump: StTime = 134.2853 EdTime = 151.734
+Player Jump: StTime = 134.2853 EdTime = 153.3677
+Player RightMove: StTime = 151.7012 EdTime = 153.6177
+Player RightMove: StTime = 153.851 EdTime = 154.1011
+Player Jump: StTime = 134.2853 EdTime = 154.4677
+Player RightMove: StTime = 154.8003 EdTime = 154.9506
+Player Jump: StTime = 134.2853 EdTime = 156.3003
+Player RightMove: StTime = 155.2339 EdTime = 156.4675
+Player RightMove: StTime = 156.7333 EdTime = 157.2169
+Player Jump: StTime = 134.2853 EdTime = 157.3342
+Player RightMove: StTime = 157.7509 EdTime = 157.9342
+Player Jump: StTime = 134.2853 EdTime = 158.0509
+Player LeftMove: StTime = 159.384 EdTime = 159.5508
+Player RightMove: StTime = 159.634 EdTime = 159.7667
+Player Jump: StTime = 134.2853 EdTime = 160.7335
+Player Die = 161.0507 by gap
+Player Totaltime: StTime = 133.0986 EdTime = 161.0507
+Player had score 2000
+Lost!

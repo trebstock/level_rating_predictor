@@ -1,0 +1,129 @@
+Player RightMove: StTime = 16.99483 EdTime = 17.06099
+Player2 RightMove: StTime = 16.94523 EdTime = 17.44522
+Player2 Jump: StTime = 17.31188 EdTime = 18.01102
+Player2 RightMove: StTime = 17.59438 EdTime = 18.09525
+Player RightMove: StTime = 17.47854 EdTime = 18.14522
+Player Jump: StTime = 17.41186 EdTime = 18.22821
+Player BlockPowerDestroy:  time = 18.4453
+Player RightMove: StTime = 18.16092 EdTime = 18.61184
+Player Jump: StTime = 17.41186 EdTime = 18.62775
+Player2 LeftMove: StTime = 18.67855 EdTime = 18.89506
+Player RightMove: StTime = 18.71189 EdTime = 19.1451
+Player LittleState: StTime = -17 EdTime = 19.39514
+Player LeftMove: StTime = 19.1451 EdTime = 19.51177
+Player2 RightMove: StTime = 19.02846 EdTime = 19.71145
+Player Jump: StTime = 17.41186 EdTime = 19.77855
+Player LeftMove: StTime = 19.69516 EdTime = 19.91128
+Player2 Jump: StTime = 17.31188 EdTime = 19.92796
+Player2 RightMove: StTime = 20.02848 EdTime = 20.19453
+Player2 BlockPowerDestroy:  time = 20.29419
+Player LeftMove: StTime = 20.2785 EdTime = 20.32852
+Player2 Jump: StTime = 17.31188 EdTime = 20.47792
+Player Jump: StTime = 17.41186 EdTime = 20.52793
+Player2 LittleState: StTime = -17 EdTime = 21.02844
+Player Jump: StTime = 17.41186 EdTime = 21.04509
+Player2 RightMove: StTime = 20.64511 EdTime = 21.04509
+Player2 Jump: StTime = 17.31188 EdTime = 21.661
+Player2 RightMove: StTime = 21.32744 EdTime = 21.89434
+Player Jump: StTime = 17.41186 EdTime = 24.84458
+Player2 Jump: StTime = 17.31188 EdTime = 25.11123
+Player Jump: StTime = 17.41186 EdTime = 26.14393
+Player2 Jump: StTime = 17.31188 EdTime = 26.51155
+Player Jump: StTime = 17.41186 EdTime = 28.62756
+Player got measuringcup
+Player got socks
+Player2 Jump: StTime = 17.31188 EdTime = 29.32804
+Player Jump: StTime = 17.41186 EdTime = 29.67803
+Player2 Jump: StTime = 17.31188 EdTime = 30.07808
+Player RightMove: StTime = 20.81153 EdTime = 30.17757
+Player got scarf
+Player2 RightMove: StTime = 22.22842 EdTime = 30.46138
+Player LeftMove: StTime = 30.17757 EdTime = 30.74379
+Player2 LeftMove: StTime = 30.64477 EdTime = 30.96131
+Player Jump: StTime = 17.41186 EdTime = 31.0603
+Player Jump: StTime = 17.41186 EdTime = 32.36135
+Player2 Jump: StTime = 17.31188 EdTime = 32.69466
+Player2 got pan
+Player2 Jump: StTime = 17.31188 EdTime = 33.56054
+Player2 got gardenhose
+Player2 RightMove: StTime = 31.19439 EdTime = 34.02741
+Player2 Jump: StTime = 17.31188 EdTime = 34.32702
+Player2 LeftMove: StTime = 34.17692 EdTime = 34.51067
+Player RightMove: StTime = 30.84377 EdTime = 34.79442
+Player Jump: StTime = 17.41186 EdTime = 34.8437
+Player BlockPowerDestroy:  time = 34.96038
+Player RightMove: StTime = 34.8437 EdTime = 34.97699
+Player Jump: StTime = 17.41186 EdTime = 35.02768
+Player RightMove: StTime = 34.99363 EdTime = 35.12777
+Player LeftMove: StTime = 35.21032 EdTime = 35.34454
+Player LeftMove: StTime = 35.51053 EdTime = 35.62786
+Player RightMove: StTime = 35.74449 EdTime = 35.82785
+Player2 RightMove: StTime = 34.52711 EdTime = 35.82785
+Player2 Jump: StTime = 17.31188 EdTime = 35.94367
+Player2 BlockPowerDestroy:  time = 36.17681
+Player2 KoopaRedSquish:  time = 36.24373
+Player Jump: StTime = 17.41186 EdTime = 36.29353
+Player2 UnleashShell:  time = 36.31025
+Player2 StopShell:  time = 36.37696
+Player2 UnleashShell:  time = 36.44448
+Player2 BlockPowerDestroy:  time = 36.4613
+Player2 StopShell:  time = 36.51031
+Player2 UnleashShell:  time = 36.57781
+Player2 StopShell:  time = 36.6445
+Player2 RightMove: StTime = 35.92792 EdTime = 36.71123
+Player Jump: StTime = 17.41186 EdTime = 36.8935
+Player2 UnleashShell:  time = 36.99453
+Player2 LeftMove: StTime = 37.11015 EdTime = 37.2111
+Player2 Jump: StTime = 17.31188 EdTime = 37.39436
+Player2 LeftMove: StTime = 37.27773 EdTime = 37.47769
+Player2 Jump: StTime = 17.31188 EdTime = 37.94438
+Player2 RightMove: StTime = 37.84442 EdTime = 38.16111
+Player2 LeftMove: StTime = 38.26113 EdTime = 38.47713
+Player2 Jump: StTime = 17.31188 EdTime = 38.77691
+Player Jump: StTime = 17.41186 EdTime = 39.56104
+Player Jump: StTime = 17.41186 EdTime = 41.19408
+Player2 Jump: StTime = 17.31188 EdTime = 41.56065
+Player Jump: StTime = 17.41186 EdTime = 42.96085
+Player2 RightMove: StTime = 38.52776 EdTime = 43.22658
+Player2 Jump: StTime = 17.31188 EdTime = 43.67657
+Player Jump: StTime = 17.41186 EdTime = 43.77655
+Player2 got peas
+Player2 got muffins
+Player2 Jump: StTime = 17.31188 EdTime = 44.29324
+Player Jump: StTime = 17.41186 EdTime = 44.54425
+Player2 Jump: StTime = 17.31188 EdTime = 45.19409
+Player Jump: StTime = 17.41186 EdTime = 45.82735
+Player2 Jump: StTime = 17.31188 EdTime = 46.19408
+Player2 Jump: StTime = 17.31188 EdTime = 47.0941
+Player Jump: StTime = 17.41186 EdTime = 47.16072
+Player Jump: StTime = 17.41186 EdTime = 48.04397
+Player2 Die = 48.12734 by gap
+Player2 Totaltime: StTime = 16.2912 EdTime = 48.12734
+Player2 Die = 48.12734 by gap
+Player2 Totaltime: StTime = 16.2912 EdTime = 48.12734
+Player RightMove: StTime = 35.86118 EdTime = 49.22728
+Player Jump: StTime = 17.41186 EdTime = 49.27724
+Player got wrench
+Player RightMove: StTime = 49.40957 EdTime = 49.77701
+Player Jump: StTime = 17.41186 EdTime = 50.0762
+Player RightMove: StTime = 50.10987 EdTime = 50.46053
+Player got baseballhat
+Player RightMove: StTime = 50.47667 EdTime = 50.51057
+Player Jump: StTime = 17.41186 EdTime = 51.04295
+Player RightMove: StTime = 50.91051 EdTime = 51.29387
+Player got underwear
+Player LeftMove: StTime = 51.35952 EdTime = 51.76047
+Player RightMove: StTime = 51.77691 EdTime = 51.86062
+Player LeftMove: StTime = 51.87661 EdTime = 51.9271
+Player KoopaRedSquish:  time = 52.22615
+Player RightMove: StTime = 51.97609 EdTime = 52.2438
+Player RightMove: StTime = 52.27621 EdTime = 52.37714
+Player UnleashShell:  time = 52.54318
+Player Jump: StTime = 17.41186 EdTime = 52.94317
+Player Jump: StTime = 17.41186 EdTime = 54.99334
+Player Jump: StTime = 17.41186 EdTime = 55.77619
+Player Jump: StTime = 17.41186 EdTime = 57.07643
+Player2 had score 4000
+Player had score 6000
+Player Totaltime: StTime = 16.2912 EdTime = 57.8259
+Win!

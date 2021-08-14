@@ -1,0 +1,14 @@
+Player2 got shrimp
+Player2 got spinach
+Player got jeans
+Player got woodenspoon
+Player got sneakers
+Player got tshirt
+Player got pipes
+Player got hammer
+Player2 got butternutsquash
+Player2 got mushrooms
+Player got suitcase
+Player2 had score 4000
+Player had score 7000
+Win!

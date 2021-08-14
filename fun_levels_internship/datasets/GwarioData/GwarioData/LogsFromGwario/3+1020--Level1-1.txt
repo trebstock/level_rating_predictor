@@ -1,0 +1,49 @@
+Player Jump: StTime = 33.46065 EdTime = 33.97757
+Player RightMove: StTime = 35.12654 EdTime = 35.56016
+Player RunState: StTime = 35.56016 EdTime = 35.75979
+Player Jump: StTime = 33.46065 EdTime = 37.70975
+Player RunState: StTime = 37.82696 EdTime = 38.16066
+Player RunState: StTime = 38.24369 EdTime = 38.36029
+Player RunState: StTime = 38.42636 EdTime = 38.51057
+Player RunState: StTime = 38.59366 EdTime = 38.64335
+Player RunState: StTime = 38.74369 EdTime = 38.79294
+Player RightMove: StTime = 39.44361 EdTime = 40.64366
+Player Jump: StTime = 33.46065 EdTime = 40.94306
+Player RightMove: StTime = 41.26051 EdTime = 41.36043
+Player Jump: StTime = 33.46065 EdTime = 41.60945
+Player Jump: StTime = 33.46065 EdTime = 42.67688
+Player RightMove: StTime = 41.59266 EdTime = 42.79346
+Player RightMove: StTime = 43.31025 EdTime = 43.74344
+Player Jump: StTime = 33.46065 EdTime = 43.79271
+Player RightMove: StTime = 44.90997 EdTime = 45.17668
+Player Jump: StTime = 33.46065 EdTime = 46.79322
+Player LeftMove: StTime = 45.66019 EdTime = 46.84277
+Player Jump: StTime = 33.46065 EdTime = 47.30989
+Player got chocolate
+Player LeftMove: StTime = 47.12651 EdTime = 47.50925
+Player RightMove: StTime = 47.67643 EdTime = 47.90895
+Player RightMove: StTime = 48.05973 EdTime = 48.70916
+Player Jump: StTime = 33.46065 EdTime = 49.07614
+Player RightMove: StTime = 48.92633 EdTime = 49.35953
+Player RightMove: StTime = 49.45924 EdTime = 49.99248
+Player LeftMove: StTime = 50.14268 EdTime = 50.77577
+Player RightMove: StTime = 50.80902 EdTime = 52.44176
+Player Jump: StTime = 33.46065 EdTime = 52.74205
+Player RightMove: StTime = 52.6588 EdTime = 53.042
+Player RightMove: StTime = 53.50861 EdTime = 54.30859
+Player Jump: StTime = 33.46065 EdTime = 54.35835
+Player RightMove: StTime = 54.52509 EdTime = 54.90829
+Player Jump: StTime = 33.46065 EdTime = 55.10843
+Player RightMove: StTime = 55.30832 EdTime = 55.45827
+Player Jump: StTime = 33.46065 EdTime = 56.1749
+Player RightMove: StTime = 56.29169 EdTime = 56.54249
+Player Jump: StTime = 33.46065 EdTime = 56.95831
+Player Die = 57.37575 by 
+Player Totaltime: StTime = 32.14096 EdTime = 57.37575
+Player Die = 57.3924 by 
+Player Totaltime: StTime = 32.14096 EdTime = 57.3924
+Player Die = 57.40847 by 
+Player Totaltime: StTime = 32.14096 EdTime = 57.40847
+Player Die = 57.42487 by 
+Player Totaltime: StTime = 32.14096 EdTime = 57.42487
+Player had score 1000

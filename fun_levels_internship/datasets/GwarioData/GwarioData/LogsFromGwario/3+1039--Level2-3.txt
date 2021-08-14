@@ -1,0 +1,102 @@
+Player Jump: StTime = 16.51126 EdTime = 17.04456
+Player RightMove: StTime = 16.62815 EdTime = 17.16135
+Player BlockPowerDestroy:  time = 17.69418
+Player RightMove: StTime = 17.32754 EdTime = 17.81125
+Player Jump: StTime = 16.51126 EdTime = 17.87758
+Player RightMove: StTime = 18.01133 EdTime = 18.64456
+Player LittleState: StTime = -17 EdTime = 19.04386
+Player LeftMove: StTime = 19.66083 EdTime = 20.26055
+Player BlockPowerDestroy:  time = 20.32798
+Player Jump: StTime = 16.51126 EdTime = 20.47799
+Player RightMove: StTime = 20.62779 EdTime = 21.04386
+Player Jump: StTime = 16.51126 EdTime = 21.92769
+Player LeftMove: StTime = 21.46132 EdTime = 21.96091
+Player Jump: StTime = 16.51126 EdTime = 22.69418
+Player RightMove: StTime = 22.11116 EdTime = 24.17749
+Player Jump: StTime = 16.51126 EdTime = 26.34398
+Player Jump: StTime = 16.51126 EdTime = 27.62713
+Player RightMove: StTime = 24.32748 EdTime = 30.05944
+Player Jump: StTime = 16.51126 EdTime = 30.42698
+Player Jump: StTime = 16.51126 EdTime = 31.04357
+Player RightMove: StTime = 31.04357 EdTime = 31.25988
+Player got measuringcup
+Player Jump: StTime = 16.51126 EdTime = 31.97638
+Player RightMove: StTime = 31.89344 EdTime = 32.3268
+Player Jump: StTime = 16.51126 EdTime = 35.57669
+Player got pan
+Player RightMove: StTime = 33.42681 EdTime = 35.92654
+Player Jump: StTime = 16.51126 EdTime = 36.22651
+Player RightMove: StTime = 36.30986 EdTime = 38.1597
+Player Jump: StTime = 16.51126 EdTime = 38.24228
+Player RightMove: StTime = 38.84272 EdTime = 39.10898
+Player LeftMove: StTime = 39.55941 EdTime = 39.74281
+Player Jump: StTime = 16.51126 EdTime = 40.70929
+Player RightMove: StTime = 40.00969 EdTime = 41.05879
+Player KoopaRedSquish:  time = 42.59193
+Player UnleashShell:  time = 42.90938
+Player Jump: StTime = 16.51126 EdTime = 43.30935
+Player LeftMove: StTime = 44.05863 EdTime = 44.87579
+Player BlockPowerDestroy:  time = 45.29242
+Player Jump: StTime = 16.51126 EdTime = 45.4425
+Player RightMove: StTime = 45.89226 EdTime = 46.15899
+Player BlockPowerDestroy:  time = 46.82483
+Player LeftMove: StTime = 46.6748 EdTime = 46.90839
+Player Jump: StTime = 16.51126 EdTime = 47.10836
+Player LeftMove: StTime = 47.07539 EdTime = 47.15876
+Player LeftMove: StTime = 47.89193 EdTime = 48.20863
+Player BlockPowerDestroy:  time = 48.39189
+Player Jump: StTime = 16.51126 EdTime = 48.54184
+Player RightMove: StTime = 50.04129 EdTime = 51.14129
+Player LeftMove: StTime = 51.34126 EdTime = 51.69147
+Player LeftMove: StTime = 51.85787 EdTime = 51.97453
+Player LeftMove: StTime = 52.42436 EdTime = 52.65759
+Player Jump: StTime = 16.51126 EdTime = 53.27433
+Player LeftMove: StTime = 52.90766 EdTime = 53.44094
+Player RightMove: StTime = 53.55765 EdTime = 54.15843
+Player Jump: StTime = 16.51126 EdTime = 54.75844
+Player LeftMove: StTime = 54.50842 EdTime = 54.97436
+Player RightMove: StTime = 55.69106 EdTime = 55.79124
+Player BlockPowerDestroy:  time = 56.00807
+Player Jump: StTime = 16.51126 EdTime = 56.07511
+Player LeftMove: StTime = 56.89229 EdTime = 57.17495
+Player RightMove: StTime = 57.82513 EdTime = 57.92448
+Player Jump: StTime = 16.51126 EdTime = 58.75815
+Player RightMove: StTime = 58.325 EdTime = 58.77473
+Player Jump: StTime = 16.51126 EdTime = 59.69115
+Player Jump: StTime = 16.51126 EdTime = 62.37378
+Player Jump: StTime = 16.51126 EdTime = 64.00784
+Player got peas
+Player Jump: StTime = 16.51126 EdTime = 64.55767
+Player RightMove: StTime = 59.05716 EdTime = 64.7076
+Player LeftMove: StTime = 64.99104 EdTime = 65.22383
+Player got muffins
+Player RightMove: StTime = 65.39003 EdTime = 65.64091
+Player Jump: StTime = 16.51126 EdTime = 65.6909
+Player Jump: StTime = 16.51126 EdTime = 66.75722
+Player Jump: StTime = 16.51126 EdTime = 67.77333
+Player Jump: StTime = 16.51126 EdTime = 68.47364
+Player Jump: StTime = 16.51126 EdTime = 69.83994
+Player Jump: StTime = 16.51126 EdTime = 71.03989
+Player RightMove: StTime = 65.89078 EdTime = 71.88967
+Player Jump: StTime = 16.51126 EdTime = 72.12305
+Player RightMove: StTime = 72.22288 EdTime = 72.55619
+Player RightMove: StTime = 72.75621 EdTime = 73.70603
+Player KoopaRedSquish:  time = 73.95699
+Player UnleashShell:  time = 74.30642
+Player Jump: StTime = 16.51126 EdTime = 74.68948
+Player RightMove: StTime = 74.82262 EdTime = 75.43961
+Player RightMove: StTime = 75.63924 EdTime = 76.72267
+Player got tuna
+Player Jump: StTime = 16.51126 EdTime = 77.1235
+Player RightMove: StTime = 77.27251 EdTime = 77.55704
+Player got cabbage
+Player Jump: StTime = 16.51126 EdTime = 77.97302
+Player Jump: StTime = 16.51126 EdTime = 79.40608
+Player Jump: StTime = 16.51126 EdTime = 80.25666
+Player Jump: StTime = 16.51126 EdTime = 81.60641
+Player RightMove: StTime = 78.17348 EdTime = 81.7222
+Player Jump: StTime = 16.51126 EdTime = 82.45545
+Player RightMove: StTime = 82.00633 EdTime = 82.58956
+Player had score 6000
+Player Totaltime: StTime = 15.04142 EdTime = 82.58956
+Win!

@@ -1,0 +1,46 @@
+Player LeftMove: StTime = 21.34551 EdTime = 21.49556
+Player BlockPowerDestroy:  time = 21.86224
+Player Jump: StTime = 21.7619 EdTime = 22.04548
+Player RightMove: StTime = 22.26213 EdTime = 22.42882
+Player LittleState: StTime = -17 EdTime = 22.97882
+Player RightMove: StTime = 22.56202 EdTime = 23.22881
+Player RightMove: StTime = 23.64516 EdTime = 23.79546
+Player Jump: StTime = 21.7619 EdTime = 24.37871
+Player RightMove: StTime = 23.96203 EdTime = 25.1953
+Player LeftMove: StTime = 28.59533 EdTime = 28.71174
+Player Jump: StTime = 21.7619 EdTime = 30.02836
+Player LeftMove: StTime = 30.51061 EdTime = 31.1444
+Player RightMove: StTime = 31.16106 EdTime = 31.478
+Player Jump: StTime = 21.7619 EdTime = 31.8949
+Player RightMove: StTime = 31.49465 EdTime = 31.91127
+Player RightMove: StTime = 32.04474 EdTime = 32.17812
+Player got shrimp
+Player Jump: StTime = 21.7619 EdTime = 32.84478
+Player RightMove: StTime = 34.34455 EdTime = 34.56149
+Player Jump: StTime = 21.7619 EdTime = 34.87707
+Player LeftMove: StTime = 34.79457 EdTime = 34.92786
+Player LeftMove: StTime = 35.46116 EdTime = 35.71112
+Player KoopaRedSquish:  time = 36.01099
+Player RightMove: StTime = 35.86114 EdTime = 36.06092
+Player UnleashShell:  time = 36.3443
+Player LeftMove: StTime = 36.37763 EdTime = 36.56095
+Player Jump: StTime = 21.7619 EdTime = 36.72768
+Player RightMove: StTime = 36.7608 EdTime = 37.42743
+Player got woodenspoon
+Player Jump: StTime = 21.7619 EdTime = 37.994
+Player got spinach
+Player RightMove: StTime = 38.06063 EdTime = 38.89381
+Player RightMove: StTime = 39.02723 EdTime = 39.10989
+Player Jump: StTime = 21.7619 EdTime = 39.16068
+Player RightMove: StTime = 39.44357 EdTime = 39.64359
+Player RightMove: StTime = 39.79368 EdTime = 40.027
+Player Jump: StTime = 21.7619 EdTime = 40.30981
+Player RightMove: StTime = 40.84353 EdTime = 40.96032
+Player RightMove: StTime = 42.24334 EdTime = 42.72652
+Player KoopaRedSquish:  time = 42.82633
+Player UnleashShell:  time = 43.15977
+Player Jump: StTime = 21.7619 EdTime = 43.55975
+Player LeftMove: StTime = 43.32629 EdTime = 43.74293
+Player Die = 44.12629 by gap
+Player Totaltime: StTime = 20.42559 EdTime = 44.12629
+Player had score 3000

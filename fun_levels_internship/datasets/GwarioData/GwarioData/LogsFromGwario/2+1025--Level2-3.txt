@@ -1,0 +1,26 @@
+Player RightMove: StTime = 79.11446 EdTime = 79.18026
+Player RightMove: StTime = 80.41437 EdTime = 80.74766
+Player Jump: StTime = 80.13101 EdTime = 80.94672
+Player RightMove: StTime = 81.09692 EdTime = 81.69759
+Player BlockPowerDestroy:  time = 81.71328
+Player Jump: StTime = 80.13101 EdTime = 81.89665
+Player LittleState: StTime = -17 EdTime = 83.06424
+Player RightMove: StTime = 82.31351 EdTime = 83.11333
+Player LeftMove: StTime = 83.28093 EdTime = 84.16405
+Player Jump: StTime = 80.13101 EdTime = 84.34682
+Player Jump: StTime = 80.13101 EdTime = 84.89752
+Player RightMove: StTime = 85.01335 EdTime = 85.31322
+Player BlockPowerDestroy:  time = 85.48074
+Player Jump: StTime = 80.13101 EdTime = 85.63081
+Player LeftMove: StTime = 85.5971 EdTime = 85.67995
+Player RightMove: StTime = 85.98075 EdTime = 86.98045
+Player LeftMove: StTime = 87.04742 EdTime = 88.14733
+Player LeftMove: StTime = 88.29734 EdTime = 88.46405
+Player Jump: StTime = 80.13101 EdTime = 88.48051
+Player Jump: StTime = 80.13101 EdTime = 89.24677
+Player RightMove: StTime = 88.72973 EdTime = 91.92956
+Player RightMove: StTime = 92.24719 EdTime = 92.3965
+Player RightMove: StTime = 92.46292 EdTime = 92.74719
+Player Die = 92.8305 by gap
+Player Totaltime: StTime = 78.39349 EdTime = 92.8305
+Player had score 0

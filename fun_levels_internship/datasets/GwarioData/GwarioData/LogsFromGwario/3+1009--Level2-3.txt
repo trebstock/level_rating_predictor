@@ -1,0 +1,7 @@
+Player got measuringcup
+Player got peas
+Player got muffins
+Player got tuna
+Player got cabbage
+Player had score 5000
+Win!

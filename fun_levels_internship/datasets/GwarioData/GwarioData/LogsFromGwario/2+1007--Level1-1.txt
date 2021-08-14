@@ -1,0 +1,12 @@
+Player got chocolate
+Player got swimsuit
+Player got spatula
+Player got spoon
+Player got cardboardbox
+Player got jacket
+Player got orangejuice
+Player got screwdriver
+Player got piecrust
+Player got dress
+Player had score 10000
+Win!

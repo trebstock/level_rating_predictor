@@ -1,0 +1,8 @@
+Player got socks
+Player got scarf
+Player got gardenhose
+Player got muffins
+Player got tuna
+Player got baseballhat
+Player had score 6000
+Win!

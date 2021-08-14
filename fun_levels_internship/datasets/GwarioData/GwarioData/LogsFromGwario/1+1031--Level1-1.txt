@@ -1,0 +1,42 @@
+Player RightMove: StTime = 90.41475 EdTime = 93.46416
+Player Jump: StTime = 92.94781 EdTime = 93.58088
+Player LeftMove: StTime = 93.61408 EdTime = 94.58115
+Player Jump: StTime = 92.94781 EdTime = 94.61475
+Player got chocolate
+Player RunState: StTime = 92.93037 EdTime = 94.74782
+Player RunState: StTime = 95.04771 EdTime = 95.14693
+Player RunState: StTime = 95.21397 EdTime = 95.79781
+Player Jump: StTime = 92.94781 EdTime = 96.08013
+Player Jump: StTime = 92.94781 EdTime = 97.43087
+Player RightMove: StTime = 94.93114 EdTime = 97.83098
+Player RightMove: StTime = 97.86423 EdTime = 98.11423
+Player RightMove: StTime = 98.28101 EdTime = 98.59742
+Player Jump: StTime = 92.94781 EdTime = 98.64749
+Player RightMove: StTime = 98.68102 EdTime = 98.93076
+Player Jump: StTime = 92.94781 EdTime = 99.0641
+Player RightMove: StTime = 98.94753 EdTime = 99.71323
+Player RunState: StTime = 97.91336 EdTime = 99.81402
+Player Jump: StTime = 92.94781 EdTime = 99.89743
+Player RightMove: StTime = 100.0474 EdTime = 101.1466
+Player KoopaGreenSquish:  time = 101.2639
+Player UnleashShell:  time = 101.5969
+Player Jump: StTime = 92.94781 EdTime = 101.9972
+Player RunState: StTime = 100.1474 EdTime = 102.1307
+Player LeftMove: StTime = 102.5471 EdTime = 103.0139
+Player Die = 103.1298 by Goomba
+Player Totaltime: StTime = 89.79468 EdTime = 103.1298
+Player Die = 103.1639 by Goomba
+Player Totaltime: StTime = 89.79468 EdTime = 103.1639
+Player Die = 103.1806 by Goomba
+Player Totaltime: StTime = 89.79468 EdTime = 103.1806
+Player Die = 103.1971 by Goomba
+Player Totaltime: StTime = 89.79468 EdTime = 103.1971
+Player Die = 103.2132 by Goomba
+Player Totaltime: StTime = 89.79468 EdTime = 103.2132
+Player Die = 103.2304 by Goomba
+Player Totaltime: StTime = 89.79468 EdTime = 103.2304
+Player Die = 103.2471 by Goomba
+Player Totaltime: StTime = 89.79468 EdTime = 103.2471
+Player Die = 103.2638 by Goomba
+Player Totaltime: StTime = 89.79468 EdTime = 103.2638
+Player had score 1000

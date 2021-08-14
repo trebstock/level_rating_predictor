@@ -1,0 +1,2 @@
+Player2 had score 0
+Player had score 0

@@ -1,0 +1,63 @@
+Player RightMove: StTime = 174.7092 EdTime = 174.9792
+Player2 RightMove: StTime = 178.7625 EdTime = 179.3289
+Player2 RightMove: StTime = 180.129 EdTime = 180.2455
+Player2 RightMove: StTime = 180.328 EdTime = 180.4457
+Player2 RightMove: StTime = 180.5457 EdTime = 180.6457
+Player2 RightMove: StTime = 180.7288 EdTime = 180.7623
+Player RightMove: StTime = 181.9788 EdTime = 182.2455
+Player2 Jump: StTime = 181.7779 EdTime = 182.6955
+Player2 Jump: StTime = 181.7779 EdTime = 184.0618
+Player2 Jump: StTime = 181.7779 EdTime = 184.7121
+Player2 RightMove: StTime = 184.5121 EdTime = 184.7953
+Player2 RightMove: StTime = 184.878 EdTime = 185.0121
+Player2 RightMove: StTime = 186.0943 EdTime = 186.212
+Player2 RightMove: StTime = 186.962 EdTime = 187.062
+Player2 RightMove: StTime = 187.1952 EdTime = 187.2619
+Player2 RightMove: StTime = 187.3286 EdTime = 187.4281
+Player2 Jump: StTime = 181.7779 EdTime = 187.5784
+Player2 RightMove: StTime = 187.4944 EdTime = 187.6113
+Player2 RightMove: StTime = 187.6782 EdTime = 187.8119
+Player2 Jump: StTime = 181.7779 EdTime = 188.8284
+Player2 RightMove: StTime = 188.8782 EdTime = 189.0619
+Player2 RightMove: StTime = 189.1778 EdTime = 189.2948
+Player Die = 190.2281 by gap
+Player Totaltime: StTime = 174.7092 EdTime = 190.2281
+Player2 LeftMove: StTime = 190.2112 EdTime = 190.3453
+Player2 Jump: StTime = 181.7779 EdTime = 191.7285
+Player2 RightMove: StTime = 191.4285 EdTime = 191.7785
+Player2 RightMove: StTime = 192.2451 EdTime = 192.4118
+Player2 RightMove: StTime = 192.4951 EdTime = 192.6612
+Player2 got shrimp
+Player2 Jump: StTime = 181.7779 EdTime = 193.2947
+Player2 RightMove: StTime = 193.545 EdTime = 193.7275
+Player2 LeftMove: StTime = 193.9949 EdTime = 194.8446
+Player2 LeftMove: StTime = 195.0279 EdTime = 195.1617
+Player2 Jump: StTime = 181.7779 EdTime = 195.4113
+Player2 RightMove: StTime = 197.1615 EdTime = 197.3284
+Player2 RightMove: StTime = 197.4116 EdTime = 197.5278
+Player2 Jump: StTime = 181.7779 EdTime = 197.5783
+Player2 RightMove: StTime = 197.9949 EdTime = 198.8449
+Player2 got woodenspoon
+Player2 Jump: StTime = 181.7779 EdTime = 199.528
+Player2 RightMove: StTime = 199.528 EdTime = 199.8781
+Player2 got jeans
+Player2 Jump: StTime = 181.7779 EdTime = 200.3941
+Player2 RightMove: StTime = 200.2613 EdTime = 200.4105
+Player2 Die = 200.4282 by RedKoopa
+Player2 Totaltime: StTime = 174.7092 EdTime = 200.4282
+Player2 Die = 200.4282 by RedKoopa
+Player2 Totaltime: StTime = 174.7092 EdTime = 200.4282
+Player2 Die = 200.4449 by RedKoopa
+Player2 Totaltime: StTime = 174.7092 EdTime = 200.4449
+Player2 Die = 200.4613 by RedKoopa
+Player2 Totaltime: StTime = 174.7092 EdTime = 200.4613
+Player2 Die = 200.4782 by RedKoopa
+Player2 Totaltime: StTime = 174.7092 EdTime = 200.4782
+Player2 Die = 200.4943 by RedKoopa
+Player2 Totaltime: StTime = 174.7092 EdTime = 200.4943
+Player2 Die = 200.5114 by RedKoopa
+Player2 Totaltime: StTime = 174.7092 EdTime = 200.5114
+Player2 Die = 200.5282 by RedKoopa
+Player2 Totaltime: StTime = 174.7092 EdTime = 200.5282
+Player2 had score 3000
+Player had score 0

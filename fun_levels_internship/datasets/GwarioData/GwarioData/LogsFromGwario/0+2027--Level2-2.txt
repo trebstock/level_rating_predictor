@@ -1,0 +1,57 @@
+Player Jump: StTime = 132.6997 EdTime = 133.0334
+Player RightMove: StTime = 133.1827 EdTime = 133.8166
+Player BlockPowerDestroy:  time = 133.85
+Player Jump: StTime = 132.6997 EdTime = 134.0327
+Player RightMove: StTime = 134.0658 EdTime = 134.1994
+Player RightMove: StTime = 134.4334 EdTime = 134.4834
+Player Jump: StTime = 132.6997 EdTime = 134.5999
+Player RightMove: StTime = 134.7 EdTime = 134.95
+Player BlockPowerDestroy:  time = 134.9989
+Player Jump: StTime = 132.6997 EdTime = 135.1828
+Player LeftMove: StTime = 135.3159 EdTime = 136.5665
+Player RightMove: StTime = 136.6166 EdTime = 136.85
+Player LittleState: StTime = -17 EdTime = 137.4999
+Player Jump: StTime = 132.6997 EdTime = 137.5328
+Player Jump: StTime = 132.6997 EdTime = 138.7165
+Player RightMove: StTime = 139.0997 EdTime = 140.2998
+Player RightMove: StTime = 140.6658 EdTime = 140.9998
+Player RightMove: StTime = 141.3831 EdTime = 141.533
+Player Jump: StTime = 132.6997 EdTime = 144.6162
+Player Jump: StTime = 132.6997 EdTime = 145.0995
+Player RightMove: StTime = 144.0829 EdTime = 145.1661
+Player RightMove: StTime = 145.4329 EdTime = 146.5494
+Player GoombaSquish:  time = 146.5828
+Player Jump: StTime = 132.6997 EdTime = 146.9828
+Player RightMove: StTime = 147.0662 EdTime = 147.3995
+Player KoopaRedSquish:  time = 148.0154
+Player UnleashShell:  time = 148.3493
+Player Jump: StTime = 132.6997 EdTime = 148.7493
+Player Jump: StTime = 132.6997 EdTime = 149.6158
+Player Jump: StTime = 132.6997 EdTime = 150.5492
+Player Jump: StTime = 132.6997 EdTime = 152.282
+Player RightMove: StTime = 151.6153 EdTime = 153.8483
+Player Jump: StTime = 132.6997 EdTime = 155.8658
+Player RightMove: StTime = 154.3649 EdTime = 156.1324
+Player RightMove: StTime = 156.5823 EdTime = 156.8324
+Player Jump: StTime = 132.6997 EdTime = 156.9323
+Player LeftMove: StTime = 157.5818 EdTime = 157.799
+Player Jump: StTime = 132.6997 EdTime = 166.8647
+Player Jump: StTime = 132.6997 EdTime = 167.0813
+Player RightMove: StTime = 165.6147 EdTime = 167.5645
+Player RightMove: StTime = 167.8987 EdTime = 167.9487
+Player KoopaRedSquish:  time = 168.9151
+Player UnleashShell:  time = 169.2484
+Player Jump: StTime = 132.6997 EdTime = 169.6485
+Player StopShell:  time = 173.6317
+Player UnleashShell:  time = 173.9649
+Player Jump: StTime = 132.6997 EdTime = 174.3483
+Player Jump: StTime = 132.6997 EdTime = 175.2973
+Player RightMove: StTime = 175.2973 EdTime = 176.3815
+Player got pot
+Player Jump: StTime = 132.6997 EdTime = 177.0477
+Player Jump: StTime = 132.6997 EdTime = 178.7481
+Player RightMove: StTime = 178.4976 EdTime = 181.6972
+Player Die = 182.1145 by gap
+Player Totaltime: StTime = 132.4126 EdTime = 182.1145
+Player had score 1000
+Lost!

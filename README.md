@@ -9,12 +9,10 @@ The original papers for the datasets are:
 ## Project Organization
 fun_levels_internship
 
+```
 ├───datasets
-
 │   ├───GwarioData
-
 │   │   ├───GwarioData
-
 │   │   │   ├───Levels
     │   │   │   └───LogsFromGwario
     │   │   └───__MACOSX
@@ -41,7 +39,8 @@ fun_levels_internship
         ├───picklejoblib5
         ├───picklejoblib7
         └───picklejoblib9
-        
+```
+       
 ## What We've Done So Far
 We used [sci-kit learn's](https://scikit-learn.org/stable/) decsion tree regressor to create a decsion tree from sliced (sliced into 3by3s) maps and their corresponding ratings. We then used that decision tree to predict the ratings of other slices. Using this predictor, we created heatmaps of the levels with the variation in colour being based off the rating that slice got. The results from the heatmap were interesting as they highlighted the important parts of the map pretty well.
 [!alt text](https://drive.google.com/file/d/1dCqeH4DaJxBi8pj--c8aZZM3hfDwnzfa/view?usp=sharing)

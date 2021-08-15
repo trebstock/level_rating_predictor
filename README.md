@@ -1,6 +1,6 @@
 # level_rating_predictor
 ## About this project
-This project focuses on predicting the enjoyment rating of Mario levels. These predictions are made by feeding a decision tree other Mario levels along with their rating. The Mario levels and their ratings are from the [Mario PCG dataset](http://guzdial.com/datasets/MarioPCGStudy.zip) and the [Gwario dataset](http://guzdial.com/datasets/GwarioData.zip).
+This project focuses on predicting the enjoyment rating of Mario levels. These predictions are made by feeding a decision tree Mario levels along with their enjoyment ratings. The Mario levels and their ratings are from the [Mario PCG dataset](http://guzdial.com/datasets/MarioPCGStudy.zip) and the [Gwario dataset](http://guzdial.com/datasets/GwarioData.zip).
 
 The original papers for the datasets are:
 - [Mario PCG Study](https://www.aaai.org/ocs/index.php/AIIDE/AIIDE16/paper/download/14008/13593)
@@ -42,17 +42,15 @@ fun_levels_internship
 ```
        
 ## What I've Done So Far
-I used [sci-kit learn's](https://scikit-learn.org/stable/) decsion tree regressor to create a decsion tree from sliced (sliced into sliding windows) maps and their corresponding ratings. I then used that decision tree to predict the ratings of other slices. Using this predictor, I created heatmaps of the levels with the variation in colour being based off the rating that slice got. The results from the heatmap were interesting as they highlighted the important parts of the map pretty well.
+I used [sci-kit learn's](https://scikit-learn.org/stable/) decsion tree regressor to create a decsion tree from sliced (sliding windows) maps and their corresponding ratings. I then used the newly created decision tree to predict the ratings of the individual slices. Using this predictor, I created heatmaps of the level. The variation in colour conveys the predicted rating the slice got. The results from the heatmap were interesting as they highlighted the important parts of the map pretty well.
 
 ![Heatmap_overlay - B8](https://user-images.githubusercontent.com/88847148/129467060-1bfee112-4025-49b5-8d2e-3a091ffefc6c.png)
 *Heatmap overlayed ontop of TestLevelB8*
 
-Some work has been done to integrate the rating predictor with the Genetic Algorithm Mario engine, but no results have been produced. More of a future goal.
-
 ## Issues to be aware of
-- The time it takes to run the program is extremely long so I'd recommend pickling the data. I've already written the code to dump and load the data, but it's currently commented. 
+- The time it takes to run the program is extremely long so I'd recommend pickling the data. I've already written the code to dump and load the data, but it's currently commented out. 
 - I didn't change the absolute file directories to relative file directories; code won't run on other computers.
-- There seems to be an issue with parsing the for loops in some of the level data. 
+- There seems to be an issue with parsing the for loops in some of the levels. 
 
 ## Next Steps & Research Ideas
 - Increased range of rating types — use rating types other than just "Fun" in the decision tree. 

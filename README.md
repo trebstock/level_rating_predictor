@@ -43,7 +43,7 @@ fun_levels_internship
 ```
        
 ## What We've Done So Far
-We used [sci-kit learn's](https://scikit-learn.org/stable/) decsion tree regressor to create a decsion tree from sliced (sliced into 3by3s) maps and their corresponding ratings. We then used that decision tree to predict the ratings of other slices. Using this predictor, we created heatmaps of the levels with the variation in colour being based off the rating that slice got. The results from the heatmap were interesting as they highlighted the important parts of the map pretty well.
+We used [sci-kit learn's](https://scikit-learn.org/stable/) decsion tree regressor to create a decsion tree from sliced (sliced into sliding windows) maps and their corresponding ratings. We then used that decision tree to predict the ratings of other slices. Using this predictor, we created heatmaps of the levels with the variation in colour being based off the rating that slice got. The results from the heatmap were interesting as they highlighted the important parts of the map pretty well.
 
 ![Heatmap_overlay - B8](https://user-images.githubusercontent.com/88847148/129467060-1bfee112-4025-49b5-8d2e-3a091ffefc6c.png)
 *Heatmap overlayed ontop of TestLevelB8*
@@ -51,9 +51,9 @@ We used [sci-kit learn's](https://scikit-learn.org/stable/) decsion tree regress
 Some work has been done to integrate the rating predictor with the Genetic Algorithm Mario engine, but no results have been produced. More of a future goal.
 
 ## Next Steps & Research Ideas
-"Best" level created using decision tree predictor and the Genetic Algorithm — 
-Increased range of rating types —
-Recognizing structures —
+- Increased range of rating types — use rating types other than just "Fun" in the decision tree. 
+- "Highest rated" level — using the code from the pcg-solution folder, make the "highest rated" level using the decision tree predictor and a Genetic Algorithm optimized for levels with high fun values.
+- Recognizing structures —  train the model to recongize structures (e.g. staircases. As of now, the "highest rated" level would just be a mess of "high rated" slices.
 
 ## Contact me
 If you have any questions about this project feel free to send a message to my discord, treesuh#4095, or my email, t.rebstock@share.epsb.ca! 

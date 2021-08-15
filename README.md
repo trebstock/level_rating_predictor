@@ -7,38 +7,37 @@ The original papers for the datasets are:
 - [Gwario Study](https://dl.acm.org/doi/pdf/10.1145/3102071.3102077)
 
 ## Project Organization
-fun_levels_internship
-
 ```
+fun_levels_internship
 ├───datasets
 │   ├───GwarioData
-│   │   ├───GwarioData
-│   │   │   ├───Levels
-    │   │   │   └───LogsFromGwario
-    │   │   └───__MACOSX
-    │   │       └───GwarioData
-    │   │           └───LogsFromGwario
-    │   └───MarioPCGStudy
-    │       └───MarioPCGStudy
-    │           ├───AnonymizedDirectory
-    │           ├───LevelsFromStudy
-    │           └───VisualizedLevels
-    └───dtfiles
-        ├───blocks
-        ├───combined_dict_heatmap
-        ├───commented_gross
-        ├───dt_in_txt
-        ├───functions
-        ├───highest
-        ├───level_data
-        ├───main
-        ├───model.pmml
-        ├───one_hot_encoder
-        ├───parse_ratings
-        ├───picklejoblib3
-        ├───picklejoblib5
-        ├───picklejoblib7
-        └───picklejoblib9
+│       ├───GwarioData
+│       │   ├───Levels
+|       │   │   └───LogsFromGwario
+|       │   └───__MACOSX
+|       │       └───GwarioData
+|       │           └───LogsFromGwario
+|       └───MarioPCGStudy
+|           └───MarioPCGStudy
+|               ├───AnonymizedDirectory
+|               ├───LevelsFromStudy
+|              └───VisualizedLevels
+└───dtfiles
+    ├───blocks
+    ├───combined_dict_heatmap
+    ├───commented_gross
+    ├───dt_in_txt
+    ├───functions
+    ├───highest
+    ├───level_data
+    ├───main
+    ├───model.pmml
+    ├───one_hot_encoder
+    ├───parse_ratings
+    ├───picklejoblib3
+    ├───picklejoblib5
+    ├───picklejoblib7
+    └───picklejoblib9
 ```
        
 ## What We've Done So Far

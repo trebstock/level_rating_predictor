@@ -8,10 +8,14 @@ The original papers for the datasets are:
 
 ## Project Organization
 fun_levels_internship
-    ├───datasets
-    │   ├───GwarioData
-    │   │   ├───GwarioData
-    │   │   │   ├───Levels
+
+├───datasets
+
+│   ├───GwarioData
+
+│   │   ├───GwarioData
+
+│   │   │   ├───Levels
     │   │   │   └───LogsFromGwario
     │   │   └───__MACOSX
     │   │       └───GwarioData

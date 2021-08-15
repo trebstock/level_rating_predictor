@@ -10,15 +10,14 @@ The original papers for the datasets are:
 ```
 fun_levels_internship
 ├───README                                     <- README to explain the project files ;)
-└───fun_levels_internship                      
-    ├───datasets                               <- data used for the project
-    │   ├───GwarioData                         <- data for Gwario levels
-    │       ├───GwarioData                      
-    │       │   ├───Levels
-    |       │   │   └───LogsFromGwario
-    |       │   └───__MACOSX
-    |       │       └───GwarioData
-    |       │           └───LogsFromGwario
+├───pcg-solution                               <- Mario engine being used with genetic algorithms to produce optimized levels 
+└───fun_levels_internship                         (I am in the process of changing Jumper to be optimized for high fun values)
+    ├───datasets                               <- data used for the project                      \
+    │       ├───GwarioData                     <- data for Gwario levels       
+    |       |   └───GwarioData                 
+    │       │       ├───Levels
+    |       │       ├───LogsFromGwario
+    |       |       └───gwario results
     |       └───MarioPCGStudy                  <- data for Mario PCG levels
     |           └───MarioPCGStudy
     |               ├───AnonymizedDirectory

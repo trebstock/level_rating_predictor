@@ -1,6 +1,6 @@
 # level_rating_predictor
 ## About this project
-This project focuses on predicting the rating of Mario levels. These predictions are made by feeding a decision tree other Mario levels along with their rating. The Mario levels and their ratings are from the [Mario PCG dataset](http://guzdial.com/datasets/MarioPCGStudy.zip) and the [Gwario dataset](http://guzdial.com/datasets/GwarioData.zip).
+This project focuses on predicting the enjoyment rating of Mario levels. These predictions are made by feeding a decision tree other Mario levels along with their rating. The Mario levels and their ratings are from the [Mario PCG dataset](http://guzdial.com/datasets/MarioPCGStudy.zip) and the [Gwario dataset](http://guzdial.com/datasets/GwarioData.zip).
 
 The original papers for the datasets are:
 - [Mario PCG Study](https://www.aaai.org/ocs/index.php/AIIDE/AIIDE16/paper/download/14008/13593)
